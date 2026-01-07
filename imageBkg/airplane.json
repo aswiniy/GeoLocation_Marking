@@ -1,0 +1,90 @@
+var airplane_json = [
+  {
+    "seatNo": 1,
+    "x": 21,
+    "y": 134,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 2,
+    "x": 21,
+    "y": 147,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 3,
+    "x": 21,
+    "y": 159,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 4,
+    "x": 21,
+    "y": 166,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 5,
+    "x": 21,
+    "y": 177,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 6,
+    "x": 20,
+    "y": 188,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 7,
+    "x": 20,
+    "y": 197,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 8,
+    "x": 21,
+    "y": 210,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 9,
+    "x": 21,
+    "y": 221,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 10,
+    "x": 21,
+    "y": 230,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  },
+  {
+    "seatNo": 11,
+    "x": 21,
+    "y": 242,
+    "image": "airplane.jpg",
+    "width": 103,
+    "height": 512
+  }
+];

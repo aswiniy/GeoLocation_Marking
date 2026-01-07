@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src='../src/mapbox-gl.js'></script>
+<link href='../src/mapbox-gl.css' rel='stylesheet' />
+<script src='players.json'></script>
+<script src='wearables.json'></script>
+<script src='nba.json'></script>
+<script src='airplane.json'></script>
+<!-- <script src='demo.json'></script> -->
+	
+</head>
+<body>
+
+
+<div id='map' style='width: 100%; height: 90%;display: block;position: absolute;border: 1px solid red;'></div>
+<style>
+.mapboxgl-canvas{
+  cursor: pointer;
+}
+</style>
+<script>
+
+var emptyJson = {
+            "version": 8,
+            "staticMapColor":"#ffffff",
+            "adminLineClr":"#d3d7db",
+            "PrimaryFontColor":"#969ea6",
+            "secondaryFntClr":"#bdc4ca",
+            "ternaryFntClr":"#d5dade",
+            "textHaloClr":"rgba(255,255,255,0.8)",
+            "name": "Empty",
+            "metadata": {
+              "mapbox:autocomposite": true
+            },
+            "sources": {},
+            "layers": [
+              {
+                "id": "background",
+                "type": "background",
+                "paint": {
+                  "background-color": "white"
+                }
+              }
+            ]
+          }
+
+mapboxgl.accessToken = 'pk.eyJ1Ijoiam9uYWhhZGtpbnMiLCJhIjoiRlVVVkx3VSJ9.9sdVEK_B_VkEXPjssU5MqA';
+    
+var map = new mapboxgl.Map({
+    container: 'map',
+	  zoom: 0,
+    maxZoom:0,
+    renderWorldCopies:false,
+    // style: emptyJson
+            style: 'mapbox://styles/mapbox/light-v9'
+});
+
+
+
+var chooser = "wearables";
+
+var _wearables = [1024,768,0,1024,0,768];
+var _players = [626,409,0,626,0,409];
+var _nba = [500,413,-250,250,340,-28];
+var _airplane = [103,512,0,103,0,512];
+
+var imgMapDet = {
+  "wearables" : [_wearables , wearables_json,"wearables.jpg","bodypart"],
+  "players" : [_players , players_Json,"players.jpg","player"],
+  "airplane" : [_airplane , airplane_json,"airplane.jpg","seatNo"],
+  "nba" : [_nba , nba_json, "nba.jpg","team_name"]
+};
+var jsonData = imgMapDet[chooser][1];
+var _imgDet = imgMapDet[chooser][0];
+var imgUrl = imgMapDet[chooser][2]
+var label = imgMapDet[chooser][3]
+
+
+var imgW = _imgDet[0];
+var imgH =_imgDet[1];
+
+var _left = _imgDet[2];
+var _right = _imgDet[3];
+var _top = _imgDet[4];
+var _bottom = _imgDet[5];
+
+var lngleft = -180;  
+var latbottom =-85; 
+
+
+var point = map.project([lngleft,latbottom]);
+// new mapboxgl.Marker().setLngLat([0,0]).addTo(map);
+// new mapboxgl.Marker().setLngLat([lngleft,latbottom]).addTo(map);
+var xleft = point.x;
+var ybottom = point.y;
+
+var xright = xleft + imgW;
+var ytop = ybottom - imgH;
+
+
+var latlngPoint = map.unproject([xright,ytop]);
+
+var lattop = latlngPoint.lat;
+var lngright = latlngPoint.lng;
+// new mapboxgl.Marker().setLngLat([lngright,lattop]).addTo(map);
+
+// var imgCoords = [[lngMin,latMin],[lngMax,latMin],[lngMax,latMax],[lngMin,latMax]];
+var imgCoords = [[lngleft,lattop],[lngright,lattop],[lngright,latbottom],[lngleft,latbottom]];
+// }
+
+
+var _xfact = (_right-_left)/(xright-xleft);
+var _yfact = (_top-_bottom)/(ybottom-ytop);
+
+// var _lngfact = (_right-_left)/(lngright-lngleft);
+// var _latfact = (_top-_bottom)/(lattop-latbottom);
+
+var FeatureSetXY = {
+    'type': 'FeatureCollection',
+    'features': [
+
+    ]
+}
+
+// var FeatureSetLatLng = {
+//     'type': 'FeatureCollection',
+//     'features': [
+
+//     ]
+// }
+jsonData.forEach(function(d){
+    var feature = {
+                      'type': 'Feature',
+                      "properties": {
+                        "idx":0
+                      },
+                      'geometry': {
+                          'type': 'Point',
+                      }
+                  }
+  feature.properties.label=d[label];
+
+// var feature2 = {
+//                       'type': 'Feature',
+//                       "properties": {
+//                         "idx":0
+//                       },
+//                       'geometry': {
+//                           'type': 'Point',
+//                       }
+//                   }
+//   feature2.properties.Point=d.Point;
+// debugger;
+
+        var lngLat = map.unproject([xleft+((d.x-_left)/_xfact),ybottom-((d.y-_bottom)/_yfact)]);
+
+        // var lng = lngleft+((d.x-_left)/_lngfact);
+        // var lat = latbottom+((d.y-_bottom)/_latfact);
+
+     
+  feature.geometry.coordinates = [lngLat.lng,lngLat.lat];
+  // feature2.geometry.coordinates = [lng,lat];
+  // console.log(lng,lat);
+  // if(d.y<-20)
+  //   {
+      FeatureSetXY.features.push(feature)
+  
+  // }
+  // FeatureSetLatLng.features.push(feature2)
+});
+
+const graticule = {
+    type: 'FeatureCollection',
+    features: []
+};
+for (let lng = -170; lng <= 180; lng += 10) {
+    graticule.features.push({
+        type: 'Feature',
+        geometry: {type: 'LineString', coordinates: [[lng, -90], [lng, 90]]},
+        properties: {value: lng}
+    });
+}
+for (let lat = -80; lat <= 80; lat += 10) {
+    graticule.features.push({
+        type: 'Feature',
+        geometry: {type: 'LineString', coordinates: [[-180, lat], [180, lat]]},
+        properties: {value: lat}
+    });
+}
+
+
+// console.log(FeatureSet);
+
+
+
+map.on('style.load', function () {
+
+   map.addSource('pointsource',{
+        type:'geojson',
+        data:FeatureSetXY
+      });
+   // map.addSource('pointsource1',{
+   //      type:'geojson',
+   //      data:FeatureSetLatLng
+   //    });
+   map.addSource("overlay",{
+          'type': 'image',
+          // 'url': 'court_Hori.jpg',
+          'url': imgUrl,
+          // 'url': 'half_crt.jpg',
+          // 'url':'LeBronJames_rev.png',
+          // 'url':'empty.png',
+          'coordinates':imgCoords
+        });
+   map.addLayer({
+
+            'id': 'overlay',
+            'source': 'overlay',
+            'type': 'raster',
+            'paint': { 'raster-opacity': 0.85 }
+          });
+
+    // map.addSource('graticule', {
+    //     type: 'geojson',
+    //     data: graticule
+    // });
+    // map.addLayer({
+    //     id: 'graticule',
+    //     type: 'line',
+    //     source: 'graticule'
+    // });
+
+   map.addLayer(
+    {
+    "id": "points",
+    "source": "pointsource",
+    "type": "circle",
+    "paint": {
+      "circle-radius":5,
+      "circle-color":   "blue",
+      "circle-opacity":1
+    }
+  });
+
+     map.addLayer({
+            'id': 'poi-labels',
+            'type': 'symbol',
+            'source': 'pointsource',
+            'layout': {
+                'text-field': ['get', 'label'],
+                'text-anchor': 'top',
+                'text-radial-offset': 0,
+                'text-justify': 'left',
+                'text-allow-overlap':true
+            }
+        });
+
+
+
+
+// map.addLayer(
+//     {
+//     "id": "points2",
+//     "source": "pointsource1",
+//     "type": "circle",
+//     "paint": {
+//       "circle-radius":5,
+//       "circle-color":"blue"
+//     }
+//   });
+
+//      map.addLayer({
+//             'id': 'poi-labels2',
+//             'type': 'symbol',
+//             'source': 'pointsource1',
+//             'layout': {
+//                 'text-field': ['get', 'Point'],
+//                 'text-anchor': 'top',
+//                 'text-radial-offset': 0,
+//                 'text-justify': 'left',
+//                 'text-allow-overlap':true
+//             }
+//         });
+
+
+
+});
+map.setZoom(0);
+
+map.on("click",function(e){
+console.log(e.lngLat);
+console.log(e.point);
+})
+
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='src/mapbox-gl.js'></script>
+    <link href='src/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+    <script src='src/mapbox-gl-boundaries.js'></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        body * {
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        .map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+        button {
+            position: absolute;
+            top: 5px;
+            left: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='map' class='map'></div>
+    <button id="switch" class="button">Add claimed boundaries of India</button>
+</body>
+
+<!-- Development bundle-->
+<!-- <script src='bundle.js'></script> -->
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoicGxhbmVtYWQiLCJhIjoiY2lvcG9sYWZlMDA1c3Vwa3FoYXZidTI1eCJ9.iKgFz8YZD1hRjAn_wUPnLA'
+var map = new mapboxgl.Map({
+    container: 'map', // container id
+    style: 'mapbox://styles/mapbox/streets-v9', //stylesheet location
+    center: [80, 25], // starting position
+    zoom: 3.6, // starting zoom
+    hash: true
+});
+document.getElementById("switch").onclick = function(){
+   mapboxgl.addClaimedBoundaries(map, 'IN');
+}
+</script>
+
+</html>

@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Static Map</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+
+#marker {
+    background-image: url('/loc_blue-n.png');
+    background-size: cover;
+    width: 21px;
+    height: 29px;
+    cursor: pointer;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+}
+
+</style>
+
+<div id='map'></div>
+
+<script>
+
+var monument = [80.05076,12.83021];
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'osm-bright-latest.json',
+    center: monument,
+    zoom: 14,
+    interactive: false
+});
+
+var el = document.createElement('div');
+el.id = 'marker';
+
+new mapboxgl.Marker(el).setLngLat(monument).addTo(map);
+
+</script>
+
+</body>
+</html>

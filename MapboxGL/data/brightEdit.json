@@ -1,0 +1,196 @@
+{
+	"version": 8,
+	"name": "OSM Bright",
+	"metadata": {
+		"mapbox:type": "template",
+		"mapbox:groups": {
+		},
+		"mapbox:autocomposite": false,
+		"openmaptiles:version": "3.x",
+		"openmaptiles:mapbox:owner": "openmaptiles",
+		"openmaptiles:mapbox:source:url": "mapbox://openmaptiles.4qljc88t"
+	},
+	"center": [
+		8.542,
+		47.372
+	],
+	"zoom": 11.6,
+	"bearing": 0,
+	"pitch": 0,
+	"sources": {
+		"openmaptiles": {
+			"type": "vector",
+			"url": "https://maps.zoho.com/vector/data/v3.json"
+		},
+		"country_boundary": {
+			"type": "geojson",
+			"data": "https://maps.zoho.com/vector/geojson/country_boundary.geojson"
+		},
+		"telangana_inner_boundary": {
+			"type": "geojson",
+			"data": "https://maps.zoho.com/vector/geojson/telangana_inner_boundary.geojson"
+		}
+	},
+	"sprite": "https://maps.zoho.com/vector/styles/osm-bright/sprite",
+	"glyphs": "https://maps.zoho.com/vector/fonts/{fontstack}/{range}.pbf",
+	"layers": [
+		{
+			"id": "background",
+			"type": "background",
+			"paint": {
+				"background-color": "#f8f4f0"
+			}
+		},
+		{
+			"id": "boundary-level-4",
+			"type": "line",
+			"source": "openmaptiles",
+			"source-layer": "boundary",
+			"filter": [
+				"in",
+				"admin_level",
+				4,
+				6,
+				8
+			],
+			"layout": {
+				"line-join": "round"
+			},
+			"paint": {
+				"line-color": "#9e9cab",
+				"line-dasharray": [
+					3,
+					1,
+					1,
+					1
+				],
+				"line-width": {
+					"base": 1.4,
+					"stops": [
+						[
+							4,
+							0.4
+						],
+						[
+							5,
+							1
+						],
+						[
+							12,
+							3
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "boundary-level-2",
+			"type": "line",
+			"source": "openmaptiles",
+			"source-layer": "boundary",
+			"filter": [
+				"==",
+				"admin_level",
+				2
+			],
+			"layout": {
+				"line-cap": "round",
+				"line-join": "round",
+				"visibility": "none"
+			},
+			"paint": {
+				"line-color": "hsl(248, 7%, 66%)",
+				"line-width": {
+					"base": 1,
+					"stops": [
+						[
+							0,
+							0.6
+						],
+						[
+							4,
+							1.4
+						],
+						[
+							5,
+							2
+						],
+						[
+							12,
+							8
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "country_boundary",
+			"type": "line",
+			"source": "country_boundary",
+			"layout": {
+				"line-cap": "round",
+				"line-join": "round"
+			},
+			"paint": {
+				"line-color": "hsl(248, 7%, 66%)",
+				"line-width": {
+					"base": 1,
+					"stops": [
+						[
+							0,
+							0.6
+						],
+						[
+							4,
+							1.4
+						],
+						[
+							5,
+							2
+						],
+						[
+							12,
+							8
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "telangana_inner_boundary",
+			"type": "line",
+			"source": "telangana_inner_boundary",
+			"minzoom": 4,
+			"maxzoom": 6,
+			"layout": {
+				"line-join": "round"
+			},
+			"paint": {
+				"line-color": "#9e9cab",
+				"line-dasharray": [
+					3,
+					1,
+					1,
+					1
+				],
+				"line-width": {
+					"base": 1.4,
+					"stops": [
+						[
+							4,
+							0.4
+						],
+						[
+							5,
+							1
+						],
+						[
+							12,
+							3
+						]
+					]
+				}
+			}
+		}
+	]
+}

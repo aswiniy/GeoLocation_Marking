@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+<script src='src/legendData.geojson'></script>
+    
+</head>
+<body>
+
+
+<div id='map' style='width: 100%; height: 100%;display: block;position: absolute;'></div>
+<script>
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    center: [19.3,30.7],
+    zoom: 1.2,
+    style: "src/bright_1.json"
+});
+var layer = {
+    "id": "points",
+    "source": "pointsource",             
+    "type": "circle",
+    "paint": {
+        "circle-radius":5,
+        // "circle-radius":[
+        //      'match',
+        //         ['get', 'idx'],
+        //         0, 5,
+        //         1, 10,
+        //         2, 20,
+        //         3, 30,
+        //         /* other */ 15
+        // ],
+        // "circle-color":'blue',
+        'circle-color': [
+                'match',
+                ['get', 'idx'],
+                0, '#fbb03b',
+                1, '#223b53',
+                2, '#e55e5e',
+                3, '#3bb2d0',
+                /* other */ 'pink'
+
+            ],
+        'circle-radius-transition':{
+            "duration": 300,
+            "delay": 10
+        }
+    },
+
+    // "transition": {
+    //   "duration": 3000,
+    //   "delay": 1,
+    // }
+  };
+
+map.on('style.load', function () {
+map.addSource('pointsource',{
+  type:'geojson',
+  data:geoDataJSon_Leg
+});
+map.addLayer(layer);
+});
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+var wearables_json = [
+ {
+   "bodypart": "Head",
+   "x": 550,
+   "y": 122,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Head",
+   "x": 458,
+   "y": 366,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Arms",
+   "x": 449,
+   "y": 304,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Neck",
+   "x": 562,
+   "y": 240,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Wrist",
+   "x": 704,
+   "y": 344,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Feet",
+   "x": 426,
+   "y": 660,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Waist",
+   "x": 554,
+   "y": 417,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Chest",
+   "x": 536,
+   "y": 297,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ },
+ {
+   "bodypart": "Torso",
+   "x": 640,
+   "y": 313,
+   "image": "vodafone-3g-zoozoo-wallpapers-2011.jpg",
+   "width": 1024,
+   "height": 768
+ }
+];

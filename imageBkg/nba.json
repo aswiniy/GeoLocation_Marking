@@ -1,0 +1,7142 @@
+var nba_json = [
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -15,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": -5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 35
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": -7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -23,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -16,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -16,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -20,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 33,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": -5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 42
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -22,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 39,
+    "y": 39
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 46,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -85,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 30,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -60,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 44
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 85,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -57,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -48,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 91,
+    "y": 46
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -103,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 48,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 19,
+    "y": 28
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 60,
+    "y": 48
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -60,
+    "y": 47
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -65,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -76,
+    "y": 35
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 33,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -76,
+    "y": 36
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 36
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -80,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 81
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 93,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 70
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 67,
+    "y": 88
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 88,
+    "y": 68
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 33,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 79,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 46
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 55
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -20,
+    "y": 57
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 97,
+    "y": 47
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -25,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -32,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -89,
+    "y": 43
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 23,
+    "y": 90
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -36,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 36
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -71,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 79
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 44
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -43,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 71,
+    "y": 69
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 99,
+    "y": 122
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -49,
+    "y": 113
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 67,
+    "y": 121
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 70,
+    "y": 68
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 35,
+    "y": 72
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 36,
+    "y": 48
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 84
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 82
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 137
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 92
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -71,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 35,
+    "y": 40
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 40,
+    "y": 48
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -22,
+    "y": 70
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -43,
+    "y": 75
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 105
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 101
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -43,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 37,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -38,
+    "y": 39
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 65
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -62,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -40,
+    "y": -28
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -22,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 40,
+    "y": 59
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 18,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 35,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -31,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -24,
+    "y": 38
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 53
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 25,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -54,
+    "y": 34
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 38
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 40,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -68,
+    "y": 47
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 43
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -22,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -49,
+    "y": 43
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -12,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 43,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 73
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -17,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 19,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 29
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": -3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 56,
+    "y": 41
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 27
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 29
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 18,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 15,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -26,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 21,
+    "y": 34
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -16,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 41,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -20,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 58,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -23,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 23,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 15,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": -8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -63,
+    "y": 50
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 24,
+    "y": 34
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 15,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 19,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 18,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -29,
+    "y": 74
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -20,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -24,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -24,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": -3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 19,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": -10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 44,
+    "y": 54
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -22,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -81,
+    "y": 61
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -12,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 32,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": -8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": -5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 129,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -57,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 85,
+    "y": 122
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 127,
+    "y": 151
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -133,
+    "y": 109
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -132,
+    "y": 39
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -24,
+    "y": 128
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -152,
+    "y": 46
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -90,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -41,
+    "y": 130
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -110,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -128,
+    "y": 94
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 152,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -166,
+    "y": 107
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -139,
+    "y": 69
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -234,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -55,
+    "y": 139
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -137,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -143,
+    "y": 69
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -157,
+    "y": 42
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -101,
+    "y": 41
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -195,
+    "y": 174
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -162,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 22,
+    "y": 78
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -81,
+    "y": 168
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -100,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -98,
+    "y": -17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -141,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 111
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 136,
+    "y": 79
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 116,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -106,
+    "y": 139
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -15,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 78
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 186
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 117,
+    "y": 189
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 86,
+    "y": 71
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -98,
+    "y": 97
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 116,
+    "y": 62
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -118,
+    "y": 151
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -102,
+    "y": 153
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -171,
+    "y": 149
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 131,
+    "y": -17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -160,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -78,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -16,
+    "y": 103
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -36,
+    "y": 47
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -66,
+    "y": 168
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 36,
+    "y": 111
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 71
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 59
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 121,
+    "y": -32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 90,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 30,
+    "y": 63
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 84
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -44,
+    "y": 110
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 81,
+    "y": 69
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 99
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 62
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 79
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -59,
+    "y": 100
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 45,
+    "y": 42
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 160,
+    "y": 206
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 109,
+    "y": 30
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -222,
+    "y": 121
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -177,
+    "y": 172
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -177,
+    "y": 196
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -68,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -65,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 213,
+    "y": 134
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 61,
+    "y": 113
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -44,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 35,
+    "y": 259
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 78,
+    "y": 178
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -97,
+    "y": 236
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -30,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -226,
+    "y": 114
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -150,
+    "y": 72
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -122,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -163,
+    "y": 78
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -51,
+    "y": 256
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -65,
+    "y": 284
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -109,
+    "y": 293
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -230,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -50,
+    "y": 273
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -76,
+    "y": 247
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -119,
+    "y": 225
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -85,
+    "y": 208
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 172,
+    "y": 208
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -226,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -112,
+    "y": 153
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -79,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -174,
+    "y": 229
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 233,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -121,
+    "y": 232
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 18,
+    "y": 272
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -226,
+    "y": 122
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 178,
+    "y": 75
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -207,
+    "y": 140
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 334
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 130,
+    "y": 85
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 113,
+    "y": 227
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -29,
+    "y": 261
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -182,
+    "y": 211
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -150,
+    "y": 231
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -187,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -145,
+    "y": 211
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 128,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 78,
+    "y": 238
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -78,
+    "y": 239
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -107,
+    "y": 224
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -89,
+    "y": 92
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -226,
+    "y": 133
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -123,
+    "y": 130
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -228,
+    "y": 128
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -40,
+    "y": 245
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 245,
+    "y": 90
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -81,
+    "y": 189
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -82,
+    "y": 169
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -135,
+    "y": 218
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 34,
+    "y": 318
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -91,
+    "y": 239
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 207,
+    "y": 155
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -186,
+    "y": 205
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -138,
+    "y": 214
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 103,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -160,
+    "y": 205
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -204,
+    "y": 150
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -215,
+    "y": 139
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -226,
+    "y": 71
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -198,
+    "y": 142
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -231,
+    "y": 118
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -141,
+    "y": 94
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 116,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 76,
+    "y": 162
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 30,
+    "y": 265
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -35,
+    "y": 204
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 135,
+    "y": 228
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -185,
+    "y": 199
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 188,
+    "y": 205
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 190,
+    "y": 174
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -84,
+    "y": 237
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -201,
+    "y": 172
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 225,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -148,
+    "y": 244
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 244
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 268
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -123,
+    "y": 47
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -185,
+    "y": 228
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -157,
+    "y": 194
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -103,
+    "y": 234
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -24,
+    "y": 275
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -90,
+    "y": 201
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -97,
+    "y": 115
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -82,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 134,
+    "y": 231
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -106,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -220,
+    "y": 138
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 247
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -212,
+    "y": 157
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -221,
+    "y": 100
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 158,
+    "y": -11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 263
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -119,
+    "y": 231
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -179,
+    "y": 189
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -73,
+    "y": 264
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -121,
+    "y": 163
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -166,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -182,
+    "y": 166
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 170,
+    "y": 184
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -47,
+    "y": 250
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -123,
+    "y": 232
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -90,
+    "y": 255
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -77,
+    "y": 212
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 197,
+    "y": 190
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -158,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 141,
+    "y": 220
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 237,
+    "y": 47
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 62
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -78,
+    "y": 212
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -174,
+    "y": 88
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 51,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -176,
+    "y": 204
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -104,
+    "y": 264
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -106,
+    "y": 234
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -55,
+    "y": 263
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 181,
+    "y": 206
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -231,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -69,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -134,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 182,
+    "y": 251
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -74,
+    "y": 245
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -105,
+    "y": 249
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 125,
+    "y": 238
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -130,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 15,
+    "y": 268
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -119,
+    "y": 252
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -210,
+    "y": 162
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -41,
+    "y": 284
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -110,
+    "y": 110
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -133,
+    "y": 228
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 225,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -145,
+    "y": 162
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -166,
+    "y": 217
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -168,
+    "y": 211
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 118,
+    "y": 117
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 210,
+    "y": 137
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 136,
+    "y": 206
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 93,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 67
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -98,
+    "y": 241
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": 262
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -89,
+    "y": 141
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -182,
+    "y": 193
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 191,
+    "y": 174
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -100,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -54,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 236
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -89,
+    "y": 249
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 320
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 159
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -60,
+    "y": 255
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 111,
+    "y": 92
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 119,
+    "y": 81
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 59
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -38,
+    "y": 250
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -210,
+    "y": 146
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 142,
+    "y": 218
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 183,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -228,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -183,
+    "y": 183
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -109,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -111,
+    "y": 233
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -97,
+    "y": 232
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -164,
+    "y": 132
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 92,
+    "y": 232
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -211,
+    "y": 127
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -201,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 179,
+    "y": 72
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 181,
+    "y": 68
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 209,
+    "y": 146
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 176,
+    "y": 29
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -53,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 193,
+    "y": 188
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -123,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -131,
+    "y": 222
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 228,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 235,
+    "y": 78
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -177,
+    "y": 130
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -96,
+    "y": 279
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 151,
+    "y": 199
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 96,
+    "y": 187
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 197,
+    "y": 253
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -92,
+    "y": 234
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -207,
+    "y": 135
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -192,
+    "y": 163
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -34,
+    "y": 61
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -135,
+    "y": 237
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -144,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -144,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -12,
+    "y": 259
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -155,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -216,
+    "y": 111
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -45,
+    "y": 116
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -217,
+    "y": 132
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 188,
+    "y": 179
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 177,
+    "y": 89
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 150,
+    "y": 196
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -200,
+    "y": 137
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 84,
+    "y": 244
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -29,
+    "y": 105
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -166,
+    "y": 72
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -86,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -68,
+    "y": 242
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 95,
+    "y": 229
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 232,
+    "y": 30
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 37,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 235,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -81,
+    "y": 242
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 67,
+    "y": 190
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 136,
+    "y": 209
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -51,
+    "y": 263
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 39,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -93,
+    "y": 201
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 205,
+    "y": 86
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 91
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 152,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -76,
+    "y": 253
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -36,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 131,
+    "y": 266
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -117,
+    "y": 235
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -107,
+    "y": 231
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 144,
+    "y": 229
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -152,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 69,
+    "y": 247
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 136
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -40,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 206,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -120,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -61,
+    "y": 256
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -217,
+    "y": 115
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 47,
+    "y": 247
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 86,
+    "y": 242
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 84,
+    "y": 247
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -100,
+    "y": 262
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 227,
+    "y": -19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 54,
+    "y": 278
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -221,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 273
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -119,
+    "y": 239
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -144,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 154,
+    "y": 116
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -105,
+    "y": 142
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -170,
+    "y": 138
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 134,
+    "y": 216
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -141,
+    "y": 214
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -126,
+    "y": 241
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -82,
+    "y": 209
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -229,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -90,
+    "y": 244
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -231,
+    "y": -33
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -155,
+    "y": 224
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -220,
+    "y": 136
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -215,
+    "y": 121
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -138,
+    "y": 135
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -226,
+    "y": 121
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -101,
+    "y": 87
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -173,
+    "y": 194
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 24,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -149,
+    "y": 158
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 232,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -43,
+    "y": 253
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 78,
+    "y": 269
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 124,
+    "y": 92
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 161,
+    "y": 197
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 161,
+    "y": 41
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -59,
+    "y": 240
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -168,
+    "y": 187
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -236,
+    "y": 42
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -145,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -158,
+    "y": 204
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -54,
+    "y": 278
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -153,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -214,
+    "y": 209
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -91,
+    "y": 255
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 218,
+    "y": 142
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -172,
+    "y": 180
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 171,
+    "y": 121
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -87,
+    "y": 234
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 228,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -184,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 74,
+    "y": 238
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -47,
+    "y": 244
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -171,
+    "y": 210
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 142,
+    "y": 3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -150,
+    "y": 231
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 51,
+    "y": 134
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -54,
+    "y": 63
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -138,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -214,
+    "y": 43
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -78,
+    "y": 252
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 118,
+    "y": 171
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 257
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -135,
+    "y": 208
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 163,
+    "y": 210
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -231,
+    "y": 89
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 44,
+    "y": 178
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -210,
+    "y": 131
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 231
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 150,
+    "y": 175
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 230,
+    "y": 55
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 75
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 185,
+    "y": -5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -148,
+    "y": 222
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -43,
+    "y": 252
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 62,
+    "y": 251
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -93,
+    "y": 205
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 36
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 234,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -236,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 155,
+    "y": 52
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -163,
+    "y": 227
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -155,
+    "y": 230
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 110,
+    "y": 237
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -60,
+    "y": 245
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -203,
+    "y": 196
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 240,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -63,
+    "y": 164
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -31,
+    "y": 251
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -82,
+    "y": 240
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -169,
+    "y": 44
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -33,
+    "y": 263
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -189,
+    "y": 147
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 89,
+    "y": 236
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 22,
+    "y": 259
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 123,
+    "y": 212
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -133,
+    "y": 213
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 29,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 275
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -202,
+    "y": 152
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -144,
+    "y": 233
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -182,
+    "y": 190
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -134,
+    "y": 210
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -157,
+    "y": 197
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -87,
+    "y": 146
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -107,
+    "y": 227
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -98,
+    "y": 163
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 111,
+    "y": 199
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -109,
+    "y": 224
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 208,
+    "y": 182
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 40,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -147,
+    "y": 222
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -102,
+    "y": 226
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -31,
+    "y": 73
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -41,
+    "y": 252
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 87,
+    "y": 236
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 223,
+    "y": 146
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 148,
+    "y": 271
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 227,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -103,
+    "y": 185
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -230,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -99,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -234,
+    "y": -15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 35,
+    "y": 256
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 90,
+    "y": 236
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 128,
+    "y": 217
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -171,
+    "y": 180
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 166,
+    "y": 101
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 188
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -97,
+    "y": 232
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 111,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 102,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 259
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 18,
+    "y": 201
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 36,
+    "y": 293
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 55,
+    "y": 252
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 115,
+    "y": 184
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 70,
+    "y": 255
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 33,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -53,
+    "y": 46
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 38
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -176,
+    "y": 191
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 223,
+    "y": 79
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -130,
+    "y": 118
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -156,
+    "y": 194
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 39,
+    "y": 250
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -100,
+    "y": 179
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 93,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 180,
+    "y": 252
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 170,
+    "y": 100
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -145,
+    "y": 114
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 264
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 198,
+    "y": 245
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -68,
+    "y": 284
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -92,
+    "y": 189
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -46,
+    "y": 240
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -37,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 36,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 45,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 41
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -21,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 34
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -16,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 39,
+    "y": 41
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 26,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -10,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 30
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 97
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 51,
+    "y": 45
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 28,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -18,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 27
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": -7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 38
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": -3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 51,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 31
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 25,
+    "y": 28
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -25,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": -7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 96,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -11,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 27
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -65,
+    "y": 201
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -157,
+    "y": 191
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 165,
+    "y": 209
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 48,
+    "y": 259
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -154,
+    "y": 212
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 193
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -204,
+    "y": 138
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 44,
+    "y": 188
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": 230
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 180,
+    "y": 188
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -121,
+    "y": 105
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -49,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -52,
+    "y": 169
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 225
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 157,
+    "y": 100
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -105,
+    "y": 193
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -80,
+    "y": 155
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -105,
+    "y": 173
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 128,
+    "y": 151
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -90,
+    "y": 281
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -105,
+    "y": 148
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 176,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 169,
+    "y": 232
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -105,
+    "y": 89
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 22,
+    "y": 198
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -147,
+    "y": 152
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 155,
+    "y": 107
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 89,
+    "y": 250
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 40,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -108,
+    "y": 220
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 138,
+    "y": 223
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -66,
+    "y": 256
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -91,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 226,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 70,
+    "y": 164
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -83,
+    "y": 216
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -192,
+    "y": 186
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -106,
+    "y": 197
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -122,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -27,
+    "y": 158
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -36,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -147,
+    "y": 125
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -64,
+    "y": 235
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -89,
+    "y": 148
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 122,
+    "y": 267
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -75,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -211,
+    "y": 161
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -121,
+    "y": 132
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -27,
+    "y": 138
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 87,
+    "y": 274
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 141,
+    "y": -7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -114,
+    "y": 141
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 115,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 81,
+    "y": 166
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 184,
+    "y": 48
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -190,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 253
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 30,
+    "y": 221
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 179
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -53,
+    "y": 28
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 24,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -80,
+    "y": 132
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -221,
+    "y": 125
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -67,
+    "y": 127
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 188
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -93,
+    "y": 167
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -149,
+    "y": 138
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -71,
+    "y": 197
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -178,
+    "y": 224
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 190,
+    "y": 185
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -27,
+    "y": 147
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 36,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 25,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -19,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -30,
+    "y": 20
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 24,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 10,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -17,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -12,
+    "y": -3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -12,
+    "y": -4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -51,
+    "y": 46
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 17,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -2,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 79
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": 389
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 20,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -6,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 12,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -29,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 23,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 6,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -7,
+    "y": 23
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 3,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 19,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -41,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 26
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -16,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -5,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 2,
+    "y": -1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 9,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 36,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 7,
+    "y": 15
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -1,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 11,
+    "y": 5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -13,
+    "y": 34
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 19,
+    "y": 30
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 8,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -3,
+    "y": 10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 43,
+    "y": 253
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -60,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -154,
+    "y": 222
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -225,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -20,
+    "y": 113
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -8,
+    "y": 260
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -186,
+    "y": 235
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 148,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -186,
+    "y": 120
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -133,
+    "y": 260
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -17,
+    "y": 188
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 164,
+    "y": 137
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -143,
+    "y": 214
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -155,
+    "y": 216
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -25,
+    "y": 251
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -149,
+    "y": 51
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 150,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -109,
+    "y": 179
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 84,
+    "y": 165
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 103,
+    "y": 106
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -126,
+    "y": 277
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 113
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -20,
+    "y": 200
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -230,
+    "y": 83
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -87,
+    "y": 103
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -183,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 130,
+    "y": 217
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -161,
+    "y": 190
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -144,
+    "y": 88
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 209,
+    "y": 85
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 68,
+    "y": 258
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -189,
+    "y": 72
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 114,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -81,
+    "y": 241
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -102,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -223,
+    "y": 55
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -202,
+    "y": 146
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 232,
+    "y": 38
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 123,
+    "y": 216
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 140,
+    "y": 220
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -152,
+    "y": -7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 225,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -209,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 40
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -147,
+    "y": 162
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -184,
+    "y": 180
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 167,
+    "y": 193
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -124,
+    "y": 213
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 209,
+    "y": 151
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 13,
+    "y": 254
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 190,
+    "y": 37
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -111,
+    "y": 235
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -119,
+    "y": 41
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -48,
+    "y": 248
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 232,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -189,
+    "y": 82
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 47,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -153,
+    "y": 235
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 130,
+    "y": 50
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 103,
+    "y": 238
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -217,
+    "y": 126
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -235,
+    "y": 13
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -95,
+    "y": 234
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -197,
+    "y": 243
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -195,
+    "y": 113
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 134,
+    "y": 57
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 101,
+    "y": 260
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 202,
+    "y": 62
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -87,
+    "y": 203
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -96,
+    "y": 260
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -30,
+    "y": 224
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 236
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -175,
+    "y": 215
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 159,
+    "y": 222
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -179,
+    "y": 235
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 232,
+    "y": 75
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 57,
+    "y": 246
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -111,
+    "y": 98
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 146,
+    "y": 206
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 168,
+    "y": 122
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -38,
+    "y": 224
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -133,
+    "y": 172
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 152,
+    "y": 2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 78,
+    "y": 158
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 4,
+    "y": 8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 0,
+    "y": -6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -15,
+    "y": 4
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -127,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 124,
+    "y": -8
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 37,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -111,
+    "y": 55
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 92,
+    "y": 143
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 60,
+    "y": 58
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 27,
+    "y": 62
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 122,
+    "y": 122
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 147,
+    "y": 39
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -119,
+    "y": 50
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -126,
+    "y": 115
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -4,
+    "y": 85
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 47,
+    "y": 171
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -114,
+    "y": 94
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -133,
+    "y": 35
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -101,
+    "y": 126
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -127,
+    "y": -12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 91,
+    "y": 117
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -62,
+    "y": 132
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -148,
+    "y": 71
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -96,
+    "y": 94
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 123,
+    "y": 32
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -127,
+    "y": 94
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -166,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 105,
+    "y": 155
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -143,
+    "y": -5
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 174,
+    "y": -11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 59,
+    "y": 125
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 175,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 135,
+    "y": 6
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -195,
+    "y": 1
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 136,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -141,
+    "y": 95
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": -7
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -165,
+    "y": -3
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 14,
+    "y": 133
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 127,
+    "y": 18
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 70,
+    "y": 27
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -162,
+    "y": 27
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -176,
+    "y": 22
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -69,
+    "y": 126
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -116,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -136,
+    "y": 24
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 96,
+    "y": 144
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 129,
+    "y": 0
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -45,
+    "y": 49
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 138,
+    "y": 12
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 16,
+    "y": 45
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -9,
+    "y": 25
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 40,
+    "y": 17
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 5,
+    "y": 63
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 111,
+    "y": 55
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -46,
+    "y": 36
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 109,
+    "y": 85
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 124,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 28,
+    "y": 61
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -32,
+    "y": 128
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 37,
+    "y": 67
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -120,
+    "y": 16
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -181,
+    "y": 11
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 1,
+    "y": 21
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -14,
+    "y": 30
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 163,
+    "y": -10
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 62,
+    "y": 45
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 166,
+    "y": 49
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 167,
+    "y": 28
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 72,
+    "y": 9
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -130,
+    "y": 57
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 98,
+    "y": 96
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 145,
+    "y": 19
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -95,
+    "y": 95
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 132,
+    "y": -2
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 132,
+    "y": 14
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": 106,
+    "y": 113
+  },
+  {
+    "team_name": "Cleveland Cavaliers",
+    "x": -151,
+    "y": -6
+  }
+]

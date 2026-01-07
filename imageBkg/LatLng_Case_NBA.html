@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src='../src/mapbox-gl.js'></script>
+<link href='../src/mapbox-gl.css' rel='stylesheet' />
+<script src='demo.json'></script>
+	
+</head>
+<body>
+
+
+<div id='map' style='width: 100%; height: 90%;display: block;position: absolute;border: 1px solid red;'></div>
+<style>
+.mapboxgl-canvas{
+  cursor: pointer;
+}
+</style>
+<script>
+
+var emptyJson = {
+            "version": 8,
+            "staticMapColor":"#ffffff",
+            "adminLineClr":"#d3d7db",
+            "PrimaryFontColor":"#969ea6",
+            "secondaryFntClr":"#bdc4ca",
+            "ternaryFntClr":"#d5dade",
+            "textHaloClr":"rgba(255,255,255,0.8)",
+            "name": "Empty",
+            "metadata": {
+              "mapbox:autocomposite": true
+            },
+            "sources": {},
+            "layers": [
+              {
+                "id": "background",
+                "type": "background",
+                "paint": {
+                  "background-color": "#dbe1e4"
+                }
+              }
+            ]
+          }
+// mapboxgl.accessToken = 'undefined';
+mapboxgl.accessToken = 'pk.eyJ1Ijoiam9uYWhhZGtpbnMiLCJhIjoiRlVVVkx3VSJ9.9sdVEK_B_VkEXPjssU5MqA';
+var map = new mapboxgl.Map({
+    container: 'map',
+	  zoom: 0,
+    renderWorldCopies:false,
+    // style: "src/bright.json"
+    style: emptyJson
+});
+
+var FeatureSet = {
+    'type': 'FeatureCollection',
+    'features': [
+
+    ]
+}
+var xMin = 99999, xMax =-99999,  yMin = 99999, yMax =-99999;
+findMinMax();
+function findMinMax()
+{
+    json.forEach(function(d){
+
+      if(d.x > xMax)
+      {
+          xMax = d.x;
+      }
+      else if(d.x < xMin )
+      {
+          xMin = d.x;
+      }
+
+      if(d.y > yMax)
+      {
+          yMax = d.y;
+      }
+      else if(d.y < yMin)
+      {
+          yMin = d.y;
+      }
+
+    });
+
+}
+
+
+console.log(xMin,xMax,yMin,yMax);
+
+var _xfact,_yfact;
+findLatLngFactors();
+function findLatLngFactors()
+{
+  var xVal = Math.abs(xMax)+Math.abs(xMin);
+  var yVal = Math.abs(yMin)+Math.abs(yMax);
+     _xfact = Math.ceil(xVal/180);
+     _yfact = Math.ceil(yVal/90);
+}
+console.log(_xfact,_yfact)
+json.forEach(function(d){
+    var feature = {
+                      'type': 'Feature',
+                      "properties": {
+                        "idx":0
+                      },
+                      'geometry': {
+                          'type': 'Point',
+                      }
+                  }
+
+        
+        // var lngLat = map.unproject([d.x,d.y]);
+  feature.geometry.coordinates = [d.x/_xfact,d.y/_yfact];
+  // feature.geometry.coordinates = [lngLat.lng,lngLat.lat];
+  // console.log(d.x,d.y);
+  FeatureSet.features.push(feature)
+});
+
+
+console.log(FeatureSet);
+
+var layer = {
+    "id": "points",
+    "source": "pointsource",
+    // "type":"symbol",
+    // "properties": {
+    //                     "title": "Mapbox DC",
+    //                     "icon": "monument"
+    //                 }
+    "type": "circle",
+    "paint": {
+      "circle-radius":5,
+      "circle-color":[
+                        'match',
+                        ['get', 'idx'],
+                        0, 'green',
+                        1, 'red',
+                        'pink'
+                    ]
+    }
+  };
+
+
+
+const graticule = {
+    type: 'FeatureCollection',
+    features: []
+};
+for (let lng = -170; lng <= 180; lng += 10) {
+    graticule.features.push({
+        type: 'Feature',
+        geometry: {type: 'LineString', coordinates: [[lng, -90], [lng, 90]]},
+        properties: {value: lng}
+    });
+}
+for (let lat = -80; lat <= 80; lat += 10) {
+    graticule.features.push({
+        type: 'Feature',
+        geometry: {type: 'LineString', coordinates: [[-180, lat], [180, lat]]},
+        properties: {value: lat}
+    });
+}
+
+
+
+map.on('style.load', function () {
+
+
+    map.addSource('graticule', {
+        type: 'geojson',
+        data: graticule
+    });
+    map.addLayer({
+        id: 'graticule',
+        type: 'line',
+        source: 'graticule'
+    });
+
+
+   map.addSource('pointsource',{
+        type:'geojson',
+        data:FeatureSet
+      });
+
+   
+//perfect data
+
+map.addSource("overlay",{
+          'type': 'image',
+          'url': 'BBC.png',
+          'coordinates': [
+                  
+                    [
+                       -83.33333333333333,
+              84
+                    ],
+                    [
+                         83.33333333333333,
+              84
+                    ],
+                    [
+                         83.33333333333333,
+              -10.4
+                    ],
+                    [
+                        -83.33333333333333,
+              -10.4
+                    ]
+                    
+              ] 
+        });
+
+   map.addLayer({
+
+            'id': 'overlay',
+            'source': 'overlay',
+            'type': 'raster',
+            'paint': { 'raster-opacity': 0.85 }
+          });
+   map.addLayer(layer);
+
+});
+map.setZoom(0);
+
+map.on("click",function(e){
+console.log(e.lngLat);
+console.log(e.point);
+})
+
+</script>
+
+
+</body>
+</html>

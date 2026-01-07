@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src='src/mapbox-gl.js'></script>
+    <link href='src/mapbox-gl.css' rel='stylesheet' />
+    <script src='src/chart.geojson'></script>
+    <script src='src/chart1.geojson'></script>
+
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+/*.marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}*/
+</style>
+
+<div id='map'></div>
+
+<script>    
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    center: [19.3,30.7],
+    // zoom: 1.2,
+    dragPan: false,
+    style: "src/bright.json"
+});
+
+// add markers to map
+geoDataJSon.features.forEach(function(marker) {
+    // create a DOM element for the marker
+    // var el = document.createElement('div');
+    // el.className = 'marker';
+    // el.style.backgroundImage = 'url(https://placekitten.com/g/' + marker.properties.iconSize.join('/') + '/)';
+    // el.style.width = marker.properties.iconSize[0] + 'px';
+    // el.style.height = marker.properties.iconSize[1] + 'px';
+
+    // el.addEventListener('click', function() {
+    //     window.alert(marker.properties.message);
+    // });
+
+    // add marker to map
+    new mapboxgl.Marker()
+        .setLngLat(marker.geometry.coordinates)
+        .addTo(map);
+});
+
+// geoLatLng.forEach(function(coordinates) {
+//     // create a DOM element for the marker
+//     // var el = document.createElement('div');
+//     // el.className = 'marker';
+//     // el.style.backgroundImage = 'url(https://placekitten.com/g/' + marker.properties.iconSize.join('/') + '/)';
+//     // el.style.width = marker.properties.iconSize[0] + 'px';
+//     // el.style.height = marker.properties.iconSize[1] + 'px';
+
+//     // el.addEventListener('click', function() {
+//     //     window.alert(marker.properties.message);
+//     // });
+
+//     // add marker to map
+//     new mapboxgl.Marker()
+//         .setLngLat(coordinates)
+//         .addTo(map);
+// });
+map.setMaxZoom(0);
+</script>
+
+</body>
+</html>

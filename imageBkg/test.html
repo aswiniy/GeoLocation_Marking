@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Variable label placement</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css" rel="stylesheet" />
+<script src='court_data.json'></script>
+
+<style>
+	body { margin: 0; padding: 0; }
+	#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<script>
+	// TO MAKE THE MAP APPEAR YOU MUST
+	// ADD YOUR ACCESS TOKEN FROM
+	// https://account.mapbox.com
+
+var emptyJson = {
+            "version": 8,
+            "staticMapColor":"#ffffff",
+            "adminLineClr":"#d3d7db",
+            "PrimaryFontColor":"#969ea6",
+            "secondaryFntClr":"#bdc4ca",
+            "ternaryFntClr":"#d5dade",
+            "textHaloClr":"rgba(255,255,255,0.8)",
+            "name": "Empty",
+            "metadata": {
+              "mapbox:autocomposite": true
+            },
+            "sources": {},
+            "layers": [
+              {
+                "id": "background",
+                "type": "background",
+                "paint": {
+                  "background-color": "white"
+                }
+              }
+            ]
+          }
+          
+	mapboxgl.accessToken = 'pk.eyJ1Ijoiam9uYWhhZGtpbnMiLCJhIjoiRlVVVkx3VSJ9.9sdVEK_B_VkEXPjssU5MqA';
+
+
+    var map = new mapboxgl.Map({
+        container: 'map',
+              zoom: 0,
+        maxZoom:0,
+        renderWorldCopies:false,
+        // style: emptyJson
+
+        style: 'mapbox://styles/mapbox/light-v9',
+        // center: [-77.04, 38.907],
+        // zoom: 11.15
+    });
+
+    var imgW = 626;
+var imgH =409;
+var lngMin = -180;  
+var latMax = -85; 
+var point = map.project([lngMin,latMax]);
+new mapboxgl.Marker().setLngLat([0,0]).addTo(map);
+new mapboxgl.Marker().setLngLat([-180,-85]).addTo(map);
+var xMin = point.x;
+var yMax = point.y;
+
+var xMax = xMin + imgW;
+var yMin = yMax - imgH;
+
+
+var latlngPoint = map.unproject([xMax,yMin]);
+
+var latMin = latlngPoint.lat;
+var lngMax = latlngPoint.lng;
+new mapboxgl.Marker().setLngLat([lngMax,latMin]).addTo(map);
+
+var imgCoords = [[lngMin,latMin],[lngMax,latMin],[lngMax,latMax],[lngMin,latMax]];
+// }
+
+var _xfact = imgW/(lngMax-lngMin);
+var _yfact = imgH/(latMax-latMin);
+
+
+var places = {
+    'type': 'FeatureCollection',
+    'features': [
+
+    ]
+}
+json.forEach(function(d){
+    var feature = {
+                      'type': 'Feature',
+                      "properties": {
+                        "idx":0
+                      },
+                      'geometry': {
+                          'type': 'Point',
+                      }
+                  }
+
+        var lngLat = map.unproject([d.x,d.y]);
+
+  feature.properties.Point=d.Point;
+  feature.geometry.coordinates = [lngLat.lng,lngLat.lat];
+  // console.log(d.x,d.y);
+  places.features.push(feature)
+});
+
+
+    // var places = {
+    //     'type': 'FeatureCollection',
+    //     'features': [
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': "Ford's Theater",
+    //                 'icon': 'theatre'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.038659, 38.931567]
+    //             }
+    //         },
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': 'The Gaslight',
+    //                 'icon': 'theatre'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.003168, 38.894651]
+    //             }
+    //         },
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': "Horrible Harry's",
+    //                 'icon': 'bar'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.090372, 38.881189]
+    //             }
+    //         },
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': 'Bike Party',
+    //                 'icon': 'bicycle'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.052477, 38.943951]
+    //             }
+    //         },
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': 'Rockabilly Rockstars',
+    //                 'icon': 'music'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.031706, 38.914581]
+    //             }
+    //         },
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': 'District Drum Tribe',
+    //                 'icon': 'music'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.020945, 38.878241]
+    //             }
+    //         },
+    //         {
+    //             'type': 'Feature',
+    //             'properties': {
+    //                 'description': 'Motown Memories',
+    //                 'icon': 'music'
+    //             },
+    //             'geometry': {
+    //                 'type': 'Point',
+    //                 'coordinates': [-77.007481, 38.876516]
+    //             }
+    //         }
+    //     ]
+    // };
+
+    map.on('load', function () {
+        // Add a GeoJSON source containing place coordinates and information.
+        map.addSource('places', {
+            'type': 'geojson',
+            'data': places
+        });
+        map.addLayer( {
+    "id": "points",
+    "source": "places",
+    // "type":"symbol",
+    // "properties": {
+    //                     "title": "Mapbox DC",
+    //                     "icon": "monument"
+    //                 }
+    "type": "circle",
+    "paint": {
+      "circle-radius":5,
+      "circle-color":[
+                        'match',
+                        ['get', 'Point'],
+                        "point1", 'green',
+                        "point2", 'blue',
+                        "point3",'green',
+                        "point4",'blue',
+                        "center","black",
+                        "red"
+                    ]
+    }
+  });
+        map.addLayer({
+            'id': 'poi-labels',
+            'type': 'symbol',
+            'source': 'places',
+            'layout': {
+                'text-field': ['get', 'Point'],
+                'text-variable-anchor': ['top', 'bottom', 'left', 'right'],
+                'text-radial-offset': 0.5,
+                'text-justify': 'auto',
+                'icon-image': ['concat', ['get', 'icon'], '-15']
+            }
+        });
+
+        // map.rotateTo(180, { duration: 10000 });
+    });
+</script>
+
+</body>
+</html>

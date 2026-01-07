@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+<!-- <script src='src/mapbox-gl.js'></script>
+<link href='src/mapbox-gl.css' rel='stylesheet' /> -->
+<script src='src/chart.geojson'></script>
+<script src='src/legendJSON.js'></script>
+<script src='src/legendData.geojson'></script>
+    
+</head>
+<body>
+
+
+<div id='map' style='width: 100%; height: 100%;display: block;position: absolute;'></div>
+<script>
+// mapboxgl.accessToken = 'undefined';
+// mapboxgl.accessToken = 'pk.eyJ1Ijoiam9uYWhhZGtpbnMiLCJhIjoiRlVVVkx3VSJ9.9sdVEK_B_VkEXPjssU5MqA';
+var map = new mapboxgl.Map({
+    container: 'map',
+    center: [19.3,30.7],
+    zoom: 1.2,
+    style: "src/bright.json"
+});
+  
+
+{
+   
+    map.on('style.load', function () {
+
+for(var i=0;i<7;i++){
+     var srcID = 'pointsource'+i;
+        map.addSource(srcID,{
+          type:'geojson',
+          data:geoDataJSon["legend"+i]
+        });
+        map.addLayer({
+            "id": "points"+i,
+            "source": srcID,
+            "type": "circle",
+            "paint": {
+                "circle-radius":5,
+                'circle-color':'white',
+                'circle-stroke-width':1,
+                'circle-stroke-color': [
+                        'match',
+                        ['get', 'idx'],
+                        0, 'red',
+                        1, 'green',
+                        2, 'blue',
+                        3, 'purple',
+                        /* other */ 'pink'
+                    ]
+            }
+
+        });
+        map.addLayer({
+            "id": "points_1"+i,
+            "source": srcID,
+            "type": "circle",
+            "paint": {
+                "circle-radius":3.5,
+                'circle-color': [
+                        'match',
+                        ['get', 'idx'],
+                        0, 'red',
+                        1, 'green',
+                        2, 'blue',
+                        3, 'purple',
+                        /* other */ 'pink'
+                    ]
+            }
+        });
+
+}
+    });
+
+}
+
+</script>
+
+
+</body>
+</html>

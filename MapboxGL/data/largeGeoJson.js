@@ -1,0 +1,17482 @@
+var geoDataJson={
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 0,
+          "color": "rgba(254,103,105,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 1,
+          "color": "rgba(186,228,144,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 2,
+          "color": "rgba(86,168,251,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 3,
+          "color": "rgba(253,204,88,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 4,
+          "color": "rgba(245,102,157,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 5,
+          "color": "rgba(252,146,100,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 6,
+          "color": "rgba(94,192,197,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 7,
+          "color": "rgba(191,191,191,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 8,
+          "color": "rgba(126,193,92,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 9,
+          "color": "rgba(208,170,149,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 10,
+          "color": "rgba(134,150,187,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 11,
+          "color": "rgba(199,154,51,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 12,
+          "color": "rgba(198,212,175,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 13,
+          "color": "rgba(210,173,207,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 14,
+          "color": "rgba(223,175,98,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.75309,
+            35.68536
+          ]
+        },
+        "properties": {
+          "xidx": "Japan",
+          "geoidx": 5,
+          "label": 5,
+          "id": 15,
+          "color": "rgba(100,221,169,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 16,
+          "color": "rgba(152,152,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 17,
+          "color": "rgba(201,156,156,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 18,
+          "color": "rgba(253,170,183,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            50.55,
+            26.03333
+          ]
+        },
+        "properties": {
+          "xidx": "Bahrain",
+          "geoidx": 7,
+          "label": 7,
+          "id": 19,
+          "color": "rgba(173,202,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 20,
+          "color": "rgba(55,126,164,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 21,
+          "color": "rgba(104,75,97,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 22,
+          "color": "rgba(202,88,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 24,
+          "color": "rgba(223,221,114,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 25,
+          "color": "rgba(182,180,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 26,
+          "color": "rgba(145,227,227,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 27,
+          "color": "rgba(249,177,128,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32,
+            49
+          ]
+        },
+        "properties": {
+          "xidx": "Ukraine",
+          "geoidx": 9,
+          "label": 9,
+          "id": 28,
+          "color": "rgba(156,206,177,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 29,
+          "color": "rgba(134,131,133,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 30,
+          "color": "rgba(239,103,110,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 31,
+          "color": "rgba(174,187,213,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 32,
+          "color": "rgba(254,103,105,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 33,
+          "color": "rgba(186,228,144,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 34,
+          "color": "rgba(86,168,251,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 35,
+          "color": "rgba(253,204,88,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 36,
+          "color": "rgba(245,102,157,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 37,
+          "color": "rgba(252,146,100,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 38,
+          "color": "rgba(94,192,197,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 39,
+          "color": "rgba(191,191,191,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 40,
+          "color": "rgba(126,193,92,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 41,
+          "color": "rgba(208,170,149,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 42,
+          "color": "rgba(134,150,187,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 43,
+          "color": "rgba(199,154,51,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 44,
+          "color": "rgba(198,212,175,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -18,
+            65
+          ]
+        },
+        "properties": {
+          "xidx": "Iceland",
+          "geoidx": 13,
+          "label": 13,
+          "id": 45,
+          "color": "rgba(210,173,207,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.16667,
+            49.75
+          ]
+        },
+        "properties": {
+          "xidx": "Luxembourg",
+          "geoidx": 14,
+          "label": 14,
+          "id": 46,
+          "color": "rgba(223,175,98,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 47,
+          "color": "rgba(100,221,169,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 48,
+          "color": "rgba(152,152,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 49,
+          "color": "rgba(201,156,156,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 50,
+          "color": "rgba(253,170,183,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 51,
+          "color": "rgba(173,202,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 52,
+          "color": "rgba(55,126,164,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 53,
+          "color": "rgba(104,75,97,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24,
+            -29
+          ]
+        },
+        "properties": {
+          "xidx": "South Africa",
+          "geoidx": 16,
+          "label": 16,
+          "id": 54,
+          "color": "rgba(202,88,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 55,
+          "color": "rgba(254,213,118,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 56,
+          "color": "rgba(223,221,114,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 57,
+          "color": "rgba(182,180,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 58,
+          "color": "rgba(145,227,227,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 59,
+          "color": "rgba(249,177,128,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 60,
+          "color": "rgba(156,206,177,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 61,
+          "color": "rgba(134,131,133,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 62,
+          "color": "rgba(239,103,110,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 63,
+          "color": "rgba(174,187,213,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 64,
+          "color": "rgba(254,103,105,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 65,
+          "color": "rgba(186,228,144,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 66,
+          "color": "rgba(86,168,251,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 67,
+          "color": "rgba(253,204,88,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 68,
+          "color": "rgba(245,102,157,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 69,
+          "color": "rgba(252,146,100,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 70,
+          "color": "rgba(94,192,197,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 71,
+          "color": "rgba(191,191,191,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 72,
+          "color": "rgba(126,193,92,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 73,
+          "color": "rgba(208,170,149,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 74,
+          "color": "rgba(134,150,187,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.37122,
+            25.04082
+          ]
+        },
+        "properties": {
+          "xidx": "The Bahamas",
+          "geoidx": 19,
+          "label": 19,
+          "id": 75,
+          "color": "rgba(199,154,51,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 76,
+          "color": "rgba(198,212,175,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 77,
+          "color": "rgba(210,173,207,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 78,
+          "color": "rgba(223,175,98,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 79,
+          "color": "rgba(100,221,169,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 80,
+          "color": "rgba(152,152,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 81,
+          "color": "rgba(201,156,156,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 82,
+          "color": "rgba(253,170,183,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 83,
+          "color": "rgba(173,202,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 84,
+          "color": "rgba(55,126,164,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 85,
+          "color": "rgba(104,75,97,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 86,
+          "color": "rgba(202,88,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.5,
+            23.75
+          ]
+        },
+        "properties": {
+          "xidx": "United Arab Emirates",
+          "geoidx": 21,
+          "label": 21,
+          "id": 87,
+          "color": "rgba(254,213,118,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 88,
+          "color": "rgba(223,221,114,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 89,
+          "color": "rgba(182,180,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 90,
+          "color": "rgba(145,227,227,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 91,
+          "color": "rgba(249,177,128,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 92,
+          "color": "rgba(156,206,177,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 93,
+          "color": "rgba(134,131,133,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 94,
+          "color": "rgba(239,103,110,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 95,
+          "color": "rgba(174,187,213,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 96,
+          "color": "rgba(254,103,105,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 97,
+          "color": "rgba(186,228,144,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 98,
+          "color": "rgba(86,168,251,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 99,
+          "color": "rgba(253,204,88,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 100,
+          "color": "rgba(245,102,157,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 101,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 102,
+          "color": "rgba(94,192,197,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 103,
+          "color": "rgba(191,191,191,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 104,
+          "color": "rgba(126,193,92,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 105,
+          "color": "rgba(208,170,149,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 106,
+          "color": "rgba(134,150,187,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 107,
+          "color": "rgba(199,154,51,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 108,
+          "color": "rgba(198,212,175,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 109,
+          "color": "rgba(210,173,207,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.37122,
+            25.04082
+          ]
+        },
+        "properties": {
+          "xidx": "The Bahamas",
+          "geoidx": 19,
+          "label": 19,
+          "id": 110,
+          "color": "rgba(223,175,98,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 111,
+          "color": "rgba(100,221,169,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 112,
+          "color": "rgba(152,152,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 113,
+          "color": "rgba(201,156,156,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 114,
+          "color": "rgba(253,170,183,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 115,
+          "color": "rgba(173,202,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 116,
+          "color": "rgba(55,126,164,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 117,
+          "color": "rgba(104,75,97,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 118,
+          "color": "rgba(202,88,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            47.75,
+            29.5
+          ]
+        },
+        "properties": {
+          "xidx": "Kuwait",
+          "geoidx": 22,
+          "label": 22,
+          "id": 119,
+          "color": "rgba(254,213,118,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 120,
+          "color": "rgba(223,221,114,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 121,
+          "color": "rgba(182,180,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 122,
+          "color": "rgba(145,227,227,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.33333,
+            47.33333
+          ]
+        },
+        "properties": {
+          "xidx": "Austria",
+          "geoidx": 23,
+          "label": 23,
+          "id": 123,
+          "color": "rgba(249,177,128,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24,
+            -29
+          ]
+        },
+        "properties": {
+          "xidx": "South Africa",
+          "geoidx": 16,
+          "label": 16,
+          "id": 124,
+          "color": "rgba(156,206,177,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 125,
+          "color": "rgba(134,131,133,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 126,
+          "color": "rgba(239,103,110,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 127,
+          "color": "rgba(174,187,213,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -55,
+            -10
+          ]
+        },
+        "properties": {
+          "xidx": "Brazil",
+          "geoidx": 24,
+          "label": 24,
+          "id": 128,
+          "color": "rgba(254,103,105,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 129,
+          "color": "rgba(186,228,144,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 130,
+          "color": "rgba(86,168,251,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 131,
+          "color": "rgba(253,204,88,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 132,
+          "color": "rgba(245,102,157,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 133,
+          "color": "rgba(252,146,100,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            122,
+            13
+          ]
+        },
+        "properties": {
+          "xidx": "Philippines",
+          "geoidx": 25,
+          "label": 25,
+          "id": 134,
+          "color": "rgba(94,192,197,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 135,
+          "color": "rgba(191,191,191,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 136,
+          "color": "rgba(126,193,92,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 137,
+          "color": "rgba(208,170,149,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 138,
+          "color": "rgba(134,150,187,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 139,
+          "color": "rgba(199,154,51,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174,
+            -42
+          ]
+        },
+        "properties": {
+          "xidx": "New Zealand",
+          "geoidx": 26,
+          "label": 26,
+          "id": 140,
+          "color": "rgba(198,212,175,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 141,
+          "color": "rgba(210,173,207,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 142,
+          "color": "rgba(223,175,98,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 143,
+          "color": "rgba(100,221,169,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 144,
+          "color": "rgba(152,152,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 145,
+          "color": "rgba(201,156,156,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 146,
+          "color": "rgba(253,170,183,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 147,
+          "color": "rgba(173,202,205,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 148,
+          "color": "rgba(55,126,164,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 149,
+          "color": "rgba(104,75,97,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 150,
+          "color": "rgba(202,88,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 151,
+          "color": "rgba(254,213,118,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 152,
+          "color": "rgba(223,221,114,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 153,
+          "color": "rgba(182,180,181,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 154,
+          "color": "rgba(145,227,227,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 155,
+          "color": "rgba(249,177,128,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 156,
+          "color": "rgba(156,206,177,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.5,
+            23.75
+          ]
+        },
+        "properties": {
+          "xidx": "United Arab Emirates",
+          "geoidx": 21,
+          "label": 21,
+          "id": 157,
+          "color": "rgba(134,131,133,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 158,
+          "color": "rgba(239,103,110,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 159,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            122,
+            13
+          ]
+        },
+        "properties": {
+          "xidx": "Philippines",
+          "geoidx": 25,
+          "label": 25,
+          "id": 160,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 161,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 162,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 163,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 164,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 165,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 166,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 167,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 168,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 169,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 170,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 171,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            20,
+            47
+          ]
+        },
+        "properties": {
+          "xidx": "Hungary",
+          "geoidx": 28,
+          "label": 28,
+          "id": 172,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -64.74003,
+            32.33022
+          ]
+        },
+        "properties": {
+          "xidx": "Bermuda",
+          "geoidx": 29,
+          "label": 29,
+          "id": 173,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 174,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84,
+            10
+          ]
+        },
+        "properties": {
+          "xidx": "Costa Rica",
+          "geoidx": 30,
+          "label": 30,
+          "id": 175,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 176,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 177,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 178,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 179,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Turkey",
+          "geoidx": 31,
+          "label": 31,
+          "id": 180,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 181,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 182,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 183,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 184,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 185,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 186,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 187,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 188,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            79,
+            22
+          ]
+        },
+        "properties": {
+          "xidx": "India",
+          "geoidx": 33,
+          "label": 33,
+          "id": 189,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 190,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 191,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 192,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 193,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 194,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 195,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 196,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 197,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 198,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 199,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 200,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 201,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 202,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 203,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 204,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 205,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 206,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 207,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 208,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 209,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 210,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 211,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.33333,
+            47.33333
+          ]
+        },
+        "properties": {
+          "xidx": "Austria",
+          "geoidx": 23,
+          "label": 23,
+          "id": 212,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 213,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            105,
+            35
+          ]
+        },
+        "properties": {
+          "xidx": "China",
+          "geoidx": 34,
+          "label": 34,
+          "id": 214,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 215,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 216,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 217,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 218,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.41903,
+            43.73141
+          ]
+        },
+        "properties": {
+          "xidx": "Monaco",
+          "geoidx": 35,
+          "label": 35,
+          "id": 219,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 220,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 221,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 222,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 223,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 224,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 225,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 226,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 227,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            20,
+            47
+          ]
+        },
+        "properties": {
+          "xidx": "Hungary",
+          "geoidx": 28,
+          "label": 28,
+          "id": 228,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 229,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 230,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 231,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 232,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 233,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 234,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 235,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 236,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 237,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 238,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.5,
+            2.5
+          ]
+        },
+        "properties": {
+          "xidx": "Malaysia",
+          "geoidx": 36,
+          "label": 36,
+          "id": 239,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174,
+            -42
+          ]
+        },
+        "properties": {
+          "xidx": "New Zealand",
+          "geoidx": 26,
+          "label": 26,
+          "id": 240,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 241,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 242,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 243,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 244,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 245,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 246,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 247,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 248,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 249,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 250,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 251,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 252,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 253,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 254,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 255,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24,
+            -29
+          ]
+        },
+        "properties": {
+          "xidx": "South Africa",
+          "geoidx": 16,
+          "label": 16,
+          "id": 256,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 257,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 258,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 259,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 260,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101,
+            15.5
+          ]
+        },
+        "properties": {
+          "xidx": "Thailand",
+          "geoidx": 37,
+          "label": 37,
+          "id": 261,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 262,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -55,
+            -10
+          ]
+        },
+        "properties": {
+          "xidx": "Brazil",
+          "geoidx": 24,
+          "label": 24,
+          "id": 263,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 264,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 265,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 266,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 267,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 268,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -64,
+            -34
+          ]
+        },
+        "properties": {
+          "xidx": "Argentina",
+          "geoidx": 38,
+          "label": 38,
+          "id": 269,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 270,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 271,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 272,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 273,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 274,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 275,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 276,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 277,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 278,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 279,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 280,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 281,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 282,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.33333,
+            47.33333
+          ]
+        },
+        "properties": {
+          "xidx": "Austria",
+          "geoidx": 23,
+          "label": 23,
+          "id": 283,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 284,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 285,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 286,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 287,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 288,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 289,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 290,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 291,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 292,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 293,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 294,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 295,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 296,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 297,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 298,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 299,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 300,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 301,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 302,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 303,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 304,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 305,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 306,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 307,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 308,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 309,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 310,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            49.75
+          ]
+        },
+        "properties": {
+          "xidx": "Czech Republic",
+          "geoidx": 39,
+          "label": 39,
+          "id": 311,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 312,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 313,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 314,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 315,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            20,
+            52
+          ]
+        },
+        "properties": {
+          "xidx": "Poland",
+          "geoidx": 40,
+          "label": 40,
+          "id": 316,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 317,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 318,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 319,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 320,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 321,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 322,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 323,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 324,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 325,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 326,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 327,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 328,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 329,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 330,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 331,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 332,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 333,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 334,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 335,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 336,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 337,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 338,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 339,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 340,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 341,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 342,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 343,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 344,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 345,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 346,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 347,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 348,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 349,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 350,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 351,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 352,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 353,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 354,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 355,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 356,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 357,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 358,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 359,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 360,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 361,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 362,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 363,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 364,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 365,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 366,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 367,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 368,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 369,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 370,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25,
+            57
+          ]
+        },
+        "properties": {
+          "xidx": "Latvia",
+          "geoidx": 41,
+          "label": 41,
+          "id": 371,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 372,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 373,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 374,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 375,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            34.75,
+            31.5
+          ]
+        },
+        "properties": {
+          "xidx": "Israel",
+          "geoidx": 42,
+          "label": 42,
+          "id": 376,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 377,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 378,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 379,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 380,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 381,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 382,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 383,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 384,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 385,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 386,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26,
+            64
+          ]
+        },
+        "properties": {
+          "xidx": "Finland",
+          "geoidx": 43,
+          "label": 43,
+          "id": 387,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 388,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 389,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.33333,
+            47.33333
+          ]
+        },
+        "properties": {
+          "xidx": "Austria",
+          "geoidx": 23,
+          "label": 23,
+          "id": 390,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 391,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 392,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 393,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 394,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 395,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 396,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 397,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 398,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 399,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 400,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 401,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 402,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 403,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 404,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 405,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 406,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 407,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24,
+            -29
+          ]
+        },
+        "properties": {
+          "xidx": "South Africa",
+          "geoidx": 16,
+          "label": 16,
+          "id": 408,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 409,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 410,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 411,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 412,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 413,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 414,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 415,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 416,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 417,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 418,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 419,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 420,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 421,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 422,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -55,
+            -10
+          ]
+        },
+        "properties": {
+          "xidx": "Brazil",
+          "geoidx": 24,
+          "label": 24,
+          "id": 423,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 424,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 425,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 426,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 427,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 428,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 429,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 430,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 431,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 432,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 433,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 434,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 435,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 436,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 437,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 438,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 439,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.25,
+            15.5
+          ]
+        },
+        "properties": {
+          "xidx": "Guatemala",
+          "geoidx": 44,
+          "label": 44,
+          "id": 440,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 441,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 442,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 443,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 444,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 445,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174,
+            -42
+          ]
+        },
+        "properties": {
+          "xidx": "New Zealand",
+          "geoidx": 26,
+          "label": 26,
+          "id": 446,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 447,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            79,
+            22
+          ]
+        },
+        "properties": {
+          "xidx": "India",
+          "geoidx": 33,
+          "label": 33,
+          "id": 448,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 449,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 450,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 451,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 452,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 453,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 454,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 455,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 456,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 457,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 458,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 459,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 460,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 461,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 462,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 463,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174,
+            -42
+          ]
+        },
+        "properties": {
+          "xidx": "New Zealand",
+          "geoidx": 26,
+          "label": 26,
+          "id": 464,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            20,
+            52
+          ]
+        },
+        "properties": {
+          "xidx": "Poland",
+          "geoidx": 40,
+          "label": 40,
+          "id": 465,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 466,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 467,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 468,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 469,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 470,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 471,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 472,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174,
+            -42
+          ]
+        },
+        "properties": {
+          "xidx": "New Zealand",
+          "geoidx": 26,
+          "label": 26,
+          "id": 473,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 474,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 475,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 476,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 477,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 478,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 479,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 480,
+          "color": "rgba(254,103,105,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 480,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 481,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 482,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 483,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 484,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 485,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.5,
+            23.75
+          ]
+        },
+        "properties": {
+          "xidx": "United Arab Emirates",
+          "geoidx": 21,
+          "label": 21,
+          "id": 486,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 487,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 488,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 489,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 490,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            101,
+            15.5
+          ]
+        },
+        "properties": {
+          "xidx": "Thailand",
+          "geoidx": 37,
+          "label": 37,
+          "id": 491,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 492,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 493,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 494,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 495,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 496,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 497,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 498,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 499,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 500,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 501,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 502,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 503,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 504,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.5,
+            23.75
+          ]
+        },
+        "properties": {
+          "xidx": "United Arab Emirates",
+          "geoidx": 21,
+          "label": 21,
+          "id": 505,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 506,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 507,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 508,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 509,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 510,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 511,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 512,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 513,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 514,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 515,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 516,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 517,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 518,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 519,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 520,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 521,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 522,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 523,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 524,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 525,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 526,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 527,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            57.58333,
+            -20.3
+          ]
+        },
+        "properties": {
+          "xidx": "Mauritius",
+          "geoidx": 45,
+          "label": 45,
+          "id": 528,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 529,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 530,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 531,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 532,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 533,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 534,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 535,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 536,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 537,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 538,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 539,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 540,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 541,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 542,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 543,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 544,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 545,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 546,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 547,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 548,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 549,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 550,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            20,
+            47
+          ]
+        },
+        "properties": {
+          "xidx": "Hungary",
+          "geoidx": 28,
+          "label": 28,
+          "id": 551,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 552,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 553,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 554,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 555,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 556,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 557,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 558,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 559,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 560,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 561,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 562,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 563,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 564,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 565,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 566,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 567,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 568,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 569,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 570,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 571,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 572,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 573,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 574,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 575,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 576,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 577,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 578,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 579,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 580,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 581,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 582,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 583,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 584,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 585,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 586,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 587,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.25,
+            42.66667
+          ]
+        },
+        "properties": {
+          "xidx": "Bulgaria",
+          "geoidx": 46,
+          "label": 46,
+          "id": 588,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 589,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 590,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 591,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 592,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 593,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 594,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 595,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 596,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 597,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 598,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 599,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 600,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 601,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 602,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 603,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 604,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 605,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 606,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 607,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 608,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 609,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 610,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 611,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 612,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 613,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -55,
+            -10
+          ]
+        },
+        "properties": {
+          "xidx": "Brazil",
+          "geoidx": 24,
+          "label": 24,
+          "id": 614,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 615,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 616,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 617,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 618,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 619,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.66667,
+            19
+          ]
+        },
+        "properties": {
+          "xidx": "Dominican Republic",
+          "geoidx": 47,
+          "label": 47,
+          "id": 620,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 621,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 622,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 623,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 624,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 625,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 626,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 627,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 628,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 629,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 630,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 631,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 632,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 633,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 634,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 635,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 636,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 637,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 638,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 639,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 640,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 641,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 642,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 643,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 644,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 645,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 646,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 647,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 648,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 649,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 650,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 651,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 652,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 653,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 654,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 655,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 656,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 657,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 658,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 659,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 660,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 661,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 662,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 663,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 664,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 665,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 666,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 667,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 668,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 669,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.58333,
+            47.25
+          ]
+        },
+        "properties": {
+          "xidx": "Moldova",
+          "geoidx": 48,
+          "label": 48,
+          "id": 670,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 671,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 672,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 673,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 674,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 675,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 676,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 677,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 678,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 679,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 680,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 681,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 682,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 683,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 684,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 685,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 686,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Turkey",
+          "geoidx": 31,
+          "label": 31,
+          "id": 687,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 688,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 689,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 690,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 691,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 692,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 693,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 694,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 695,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 696,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 697,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 698,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 699,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 700,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 701,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 702,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            127.75,
+            36.5
+          ]
+        },
+        "properties": {
+          "xidx": "South Korea",
+          "geoidx": 49,
+          "label": 49,
+          "id": 703,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 704,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 705,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 706,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 707,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 708,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26,
+            64
+          ]
+        },
+        "properties": {
+          "xidx": "Finland",
+          "geoidx": 43,
+          "label": 43,
+          "id": 709,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 710,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 711,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 712,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 713,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 714,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 715,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 716,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 717,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            100,
+            60
+          ]
+        },
+        "properties": {
+          "xidx": "Russia",
+          "geoidx": 50,
+          "label": 50,
+          "id": 718,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 719,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 720,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 721,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 722,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 723,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 724,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 725,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 726,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 727,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 728,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 729,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 730,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 731,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 732,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 733,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 734,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 735,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 736,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 737,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 738,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 739,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.5,
+            23.75
+          ]
+        },
+        "properties": {
+          "xidx": "United Arab Emirates",
+          "geoidx": 21,
+          "label": 21,
+          "id": 740,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 741,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 742,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 743,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 744,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 745,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 746,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Turkey",
+          "geoidx": 31,
+          "label": 31,
+          "id": 747,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 748,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174,
+            -42
+          ]
+        },
+        "properties": {
+          "xidx": "New Zealand",
+          "geoidx": 26,
+          "label": 26,
+          "id": 749,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 750,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 751,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 752,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 753,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 754,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 755,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 756,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 757,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 758,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 759,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 760,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 761,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 762,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 763,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 764,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 765,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 766,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 767,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 768,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 769,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 770,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.43333,
+            35.91667
+          ]
+        },
+        "properties": {
+          "xidx": "Malta",
+          "geoidx": 51,
+          "label": 51,
+          "id": 771,
+          "color": "rgba(253,204,88,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            70,
+            30
+          ]
+        },
+        "properties": {
+          "xidx": "Pakistan",
+          "geoidx": 52,
+          "label": 52,
+          "id": 771,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 772,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            49.75
+          ]
+        },
+        "properties": {
+          "xidx": "Czech Republic",
+          "geoidx": 39,
+          "label": 39,
+          "id": 773,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 774,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 775,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 776,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 777,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -55,
+            -10
+          ]
+        },
+        "properties": {
+          "xidx": "Brazil",
+          "geoidx": 24,
+          "label": 24,
+          "id": 778,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 779,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 780,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 781,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 782,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            54.5,
+            23.75
+          ]
+        },
+        "properties": {
+          "xidx": "United Arab Emirates",
+          "geoidx": 21,
+          "label": 21,
+          "id": 783,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 784,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 785,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 786,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 787,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 788,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 789,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 790,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 791,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 792,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 793,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 794,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 795,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 796,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 797,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 798,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 799,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 800,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 801,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 802,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 803,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 804,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 805,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 806,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 807,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 808,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 809,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 810,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.75309,
+            35.68536
+          ]
+        },
+        "properties": {
+          "xidx": "Japan",
+          "geoidx": 5,
+          "label": 5,
+          "id": 811,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 812,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 813,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 814,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 815,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 816,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 817,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 818,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 819,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 820,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 821,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 822,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 823,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 824,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 825,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 826,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 827,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 828,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 829,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 830,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 831,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 832,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Greece",
+          "geoidx": 53,
+          "label": 53,
+          "id": 833,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.11667,
+            49.21667
+          ]
+        },
+        "properties": {
+          "xidx": "Jersey",
+          "geoidx": 54,
+          "label": 54,
+          "id": 834,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 835,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 836,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 837,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 838,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 839,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 840,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 841,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 842,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 843,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 844,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 845,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 846,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 847,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 848,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 849,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 850,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 851,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.33333,
+            47.33333
+          ]
+        },
+        "properties": {
+          "xidx": "Austria",
+          "geoidx": 23,
+          "label": 23,
+          "id": 852,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 853,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 854,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 855,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 856,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 857,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 858,
+          "color": "rgba(145,227,227,1)"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 858,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 859,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 860,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 861,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 862,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 863,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 864,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 865,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.5,
+            50.75
+          ]
+        },
+        "properties": {
+          "xidx": "Belgium",
+          "geoidx": 11,
+          "label": 11,
+          "id": 866,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 867,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 868,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 869,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 870,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 871,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.33333,
+            47.33333
+          ]
+        },
+        "properties": {
+          "xidx": "Austria",
+          "geoidx": 23,
+          "label": 23,
+          "id": 872,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 873,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 874,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 875,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 876,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 877,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            56
+          ]
+        },
+        "properties": {
+          "xidx": "Denmark",
+          "geoidx": 32,
+          "label": 32,
+          "id": 878,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 879,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.16667,
+            22.25
+          ]
+        },
+        "properties": {
+          "xidx": "Hong Kong",
+          "geoidx": 55,
+          "label": 55,
+          "id": 880,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "Romania",
+          "geoidx": 56,
+          "label": 56,
+          "id": 881,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 882,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 883,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 884,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 885,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 886,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 887,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 888,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 889,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 890,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 891,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 892,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 893,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 894,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 895,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 896,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 897,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 898,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 899,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 900,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 901,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 902,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 903,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 904,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 905,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 906,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 907,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 908,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 909,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 910,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 911,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 912,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Turkey",
+          "geoidx": 31,
+          "label": 31,
+          "id": 913,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 914,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 915,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 916,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 917,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 918,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 919,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24,
+            -29
+          ]
+        },
+        "properties": {
+          "xidx": "South Africa",
+          "geoidx": 16,
+          "label": 16,
+          "id": 920,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 921,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 922,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 923,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            46
+          ]
+        },
+        "properties": {
+          "xidx": "France",
+          "geoidx": 17,
+          "label": 17,
+          "id": 924,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 925,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 926,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 927,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 928,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 929,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 930,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 931,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 932,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 933,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 934,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 935,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 936,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Sweden",
+          "geoidx": 15,
+          "label": 15,
+          "id": 937,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 938,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 939,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Turkey",
+          "geoidx": 31,
+          "label": 31,
+          "id": 940,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 941,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.43333,
+            35.91667
+          ]
+        },
+        "properties": {
+          "xidx": "Malta",
+          "geoidx": 51,
+          "label": 51,
+          "id": 942,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 943,
+          "color": "rgba(100,221,169,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 944,
+          "color": "rgba(152,152,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10,
+            62
+          ]
+        },
+        "properties": {
+          "xidx": "Norway",
+          "geoidx": 12,
+          "label": 12,
+          "id": 945,
+          "color": "rgba(201,156,156,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 946,
+          "color": "rgba(253,170,183,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 947,
+          "color": "rgba(173,202,205,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.5,
+            51.5
+          ]
+        },
+        "properties": {
+          "xidx": "Germany",
+          "geoidx": 4,
+          "label": 4,
+          "id": 948,
+          "color": "rgba(55,126,164,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8,
+            53
+          ]
+        },
+        "properties": {
+          "xidx": "Ireland",
+          "geoidx": 6,
+          "label": 6,
+          "id": 949,
+          "color": "rgba(104,75,97,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 950,
+          "color": "rgba(202,88,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.83333,
+            42.83333
+          ]
+        },
+        "properties": {
+          "xidx": "Italy",
+          "geoidx": 18,
+          "label": 18,
+          "id": 951,
+          "color": "rgba(254,213,118,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.41903,
+            43.73141
+          ]
+        },
+        "properties": {
+          "xidx": "Monaco",
+          "geoidx": 35,
+          "label": 35,
+          "id": 952,
+          "color": "rgba(223,221,114,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 953,
+          "color": "rgba(182,180,181,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 954,
+          "color": "rgba(145,227,227,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 955,
+          "color": "rgba(249,177,128,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 956,
+          "color": "rgba(156,206,177,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 957,
+          "color": "rgba(134,131,133,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 958,
+          "color": "rgba(239,103,110,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 959,
+          "color": "rgba(174,187,213,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 960,
+          "color": "rgba(254,103,105,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 961,
+          "color": "rgba(186,228,144,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 962,
+          "color": "rgba(86,168,251,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 963,
+          "color": "rgba(253,204,88,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.64258,
+            60.10867
+          ]
+        },
+        "properties": {
+          "xidx": "Canada",
+          "geoidx": 2,
+          "label": 2,
+          "id": 964,
+          "color": "rgba(245,102,157,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01427,
+            47.00016
+          ]
+        },
+        "properties": {
+          "xidx": "Switzerland",
+          "geoidx": 10,
+          "label": 10,
+          "id": 965,
+          "color": "rgba(252,146,100,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 966,
+          "color": "rgba(94,192,197,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.75,
+            52.25
+          ]
+        },
+        "properties": {
+          "xidx": "Netherlands",
+          "geoidx": 20,
+          "label": 20,
+          "id": 967,
+          "color": "rgba(191,191,191,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15,
+            49.75
+          ]
+        },
+        "properties": {
+          "xidx": "Czech Republic",
+          "geoidx": 39,
+          "label": 39,
+          "id": 968,
+          "color": "rgba(126,193,92,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 969,
+          "color": "rgba(208,170,149,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.5,
+            39.76
+          ]
+        },
+        "properties": {
+          "xidx": "United States",
+          "geoidx": 1,
+          "label": 1,
+          "id": 970,
+          "color": "rgba(134,150,187,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 971,
+          "color": "rgba(199,154,51,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.69531,
+            54.75844
+          ]
+        },
+        "properties": {
+          "xidx": "United Kingdom",
+          "geoidx": 0,
+          "label": 0,
+          "id": 972,
+          "color": "rgba(198,212,175,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135,
+            -25
+          ]
+        },
+        "properties": {
+          "xidx": "Australia",
+          "geoidx": 3,
+          "label": 3,
+          "id": 973,
+          "color": "rgba(210,173,207,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35,
+            39
+          ]
+        },
+        "properties": {
+          "xidx": "Turkey",
+          "geoidx": 31,
+          "label": 31,
+          "id": 974,
+          "color": "rgba(223,175,98,1)"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 975,
+          "color": "red"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 976,
+          "color": "blue"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -4,
+            40
+          ]
+        },
+        "properties": {
+          "xidx": "Spain",
+          "geoidx": 27,
+          "label": 27,
+          "id": 977,
+          "color": "pink"
+        }
+      }
+    ]
+  }

@@ -1,0 +1,660 @@
+{
+	"version": 8,
+	"name": "OSM Bright",
+	"metadata": {
+		"mapbox:type": "template",
+		"mapbox:groups": {
+			"1444849364238.8171": {
+				"collapsed": false,
+				"name": "Buildings"
+			},
+			"1444849354174.1904": {
+				"collapsed": true,
+				"name": "Tunnels"
+			},
+			"1444849388993.3071": {
+				"collapsed": false,
+				"name": "Land"
+			},
+			"1444849242106.713": {
+				"collapsed": false,
+				"name": "Places"
+			},
+			"1444849382550.77": {
+				"collapsed": false,
+				"name": "Water"
+			},
+			"1444849345966.4436": {
+				"collapsed": false,
+				"name": "Roads"
+			},
+			"1444849334699.1902": {
+				"collapsed": true,
+				"name": "Bridges"
+			}
+		},
+		"mapbox:autocomposite": false,
+		"openmaptiles:version": "3.x",
+		"openmaptiles:mapbox:owner": "openmaptiles",
+		"openmaptiles:mapbox:source:url": "mapbox://openmaptiles.4qljc88t"
+	},
+	"center": [
+		8.542,
+		47.372
+	],
+	"zoom": 11.6,
+	"bearing": 0,
+	"pitch": 0,
+	"sources": {
+		"openmaptiles": {
+			"type": "vector",
+			"url": "https://maps.zoho.com/vector/data/v3.json"
+		},
+		"country_boundary": {
+			"type": "geojson",
+			"data": "https://maps.zoho.com/vector/geojson/country_boundary.geojson"
+		},
+		"telangana_inner_boundary": {
+			"type": "geojson",
+			"data": "https://maps.zoho.com/vector/geojson/telangana_inner_boundary.geojson"
+		}
+	},
+	"sprite": "https://maps.zoho.com/vector/styles/osm-bright/sprite",
+	"glyphs": "https://maps.zoho.com/vector/fonts/{fontstack}/{range}.pbf",
+	"layers": [
+		{
+			"id": "background",
+			"type": "background",
+			"paint": {
+				"background-color": "#f8f4f0"
+			}
+		},
+		{
+			"id": "landcover-glacier",
+			"type": "fill",
+			"metadata": {
+				"mapbox:group": "1444849388993.3071"
+			},
+			"source": "openmaptiles",
+			"source-layer": "landcover",
+			"filter": [
+				"==",
+				"subclass",
+				"glacier"
+			],
+			"layout": {
+				"visibility": "visible"
+			},
+			"paint": {
+				"fill-color": "#fff",
+				"fill-opacity": {
+					"base": 1,
+					"stops": [
+						[
+							0,
+							0.9
+						],
+						[
+							10,
+							0.3
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "water",
+			"type": "fill",
+			"metadata": {
+				"mapbox:group": "1444849382550.77"
+			},
+			"source": "openmaptiles",
+			"source-layer": "water",
+			"layout": {
+				"visibility": "visible"
+			},
+			"paint": {
+				"fill-color": "hsl(210, 67%, 85%)"
+			}
+		},
+		{
+			"id": "landcover-ice-shelf",
+			"type": "fill",
+			"metadata": {
+				"mapbox:group": "1444849382550.77"
+			},
+			"source": "openmaptiles",
+			"source-layer": "landcover",
+			"filter": [
+				"==",
+				"subclass",
+				"ice_shelf"
+			],
+			"layout": {
+				"visibility": "visible"
+			},
+			"paint": {
+				"fill-color": "#fff",
+				"fill-opacity": {
+					"base": 1,
+					"stops": [
+						[
+							0,
+							0.9
+						],
+						[
+							10,
+							0.3
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "boundary-level-4",
+			"type": "line",
+			"source": "openmaptiles",
+			"source-layer": "boundary",
+			"filter": [
+				"in",
+				"admin_level",
+				4,
+				6,
+				8
+			],
+			"layout": {
+				"line-join": "round"
+			},
+			"paint": {
+				"line-color": "#9e9cab",
+				"line-dasharray": [
+					3,
+					1,
+					1,
+					1
+				],
+				"line-width": {
+					"base": 1.4,
+					"stops": [
+						[
+							4,
+							0.4
+						],
+						[
+							5,
+							1
+						],
+						[
+							12,
+							3
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "boundary-level-2",
+			"type": "line",
+			"source": "openmaptiles",
+			"source-layer": "boundary",
+			"filter": [
+				"==",
+				"admin_level",
+				2
+			],
+			"layout": {
+				"line-cap": "round",
+				"line-join": "round",
+				"visibility": "none"
+			},
+			"paint": {
+				"line-color": "hsl(248, 7%, 66%)",
+				"line-width": {
+					"base": 1,
+					"stops": [
+						[
+							0,
+							0.6
+						],
+						[
+							4,
+							1.4
+						],
+						[
+							5,
+							2
+						],
+						[
+							12,
+							8
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "country_boundary",
+			"type": "line",
+			"source": "country_boundary",
+			"layout": {
+				"line-cap": "round",
+				"line-join": "round"
+			},
+			"paint": {
+				"line-color": "hsl(248, 7%, 66%)",
+				"line-width": {
+					"base": 1,
+					"stops": [
+						[
+							0,
+							0.6
+						],
+						[
+							4,
+							1.4
+						],
+						[
+							5,
+							2
+						],
+						[
+							12,
+							8
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "telangana_inner_boundary",
+			"type": "line",
+			"source": "telangana_inner_boundary",
+			"minzoom": 4,
+			"maxzoom": 6,
+			"layout": {
+				"line-join": "round"
+			},
+			"paint": {
+				"line-color": "#9e9cab",
+				"line-dasharray": [
+					3,
+					1,
+					1,
+					1
+				],
+				"line-width": {
+					"base": 1.4,
+					"stops": [
+						[
+							4,
+							0.4
+						],
+						[
+							5,
+							1
+						],
+						[
+							12,
+							3
+						]
+					]
+				}
+			}
+		},
+		{
+			"id": "poi-level-3",
+			"type": "symbol",
+			"source": "openmaptiles",
+			"source-layer": "poi",
+			"minzoom": 16,
+			"filter": [
+				"all",
+				[
+					"==",
+					"$type",
+					"Point"
+				],
+				[
+					">=",
+					"rank",
+					25
+				]
+			],
+			"layout": {
+				"text-padding": 2,
+				"text-font": [
+					"Open Sans Semibold"
+				],
+				"text-anchor": "top",
+				"icon-image": "{class}_11",
+				"text-field": "{name}",
+				"text-offset": [
+					0,
+					0.6
+				],
+				"text-size": 12,
+				"text-max-width": 9
+			},
+			"paint": {
+				"text-halo-blur": 0.5,
+				"text-color": "#666",
+				"text-halo-width": 1,
+				"text-halo-color": "#ffffff"
+			}
+		},
+		{
+			"id": "poi-level-2",
+			"type": "symbol",
+			"source": "openmaptiles",
+			"source-layer": "poi",
+			"minzoom": 15,
+			"filter": [
+				"all",
+				[
+					"==",
+					"$type",
+					"Point"
+				],
+				[
+					"all",
+					[
+						"<=",
+						"rank",
+						24
+					],
+					[
+						">=",
+						"rank",
+						15
+					]
+				]
+			],
+			"layout": {
+				"text-padding": 2,
+				"text-font": [
+					"Open Sans Semibold"
+				],
+				"text-anchor": "top",
+				"icon-image": "{class}_11",
+				"text-field": "{name}",
+				"text-offset": [
+					0,
+					0.6
+				],
+				"text-size": 12,
+				"text-max-width": 9
+			},
+			"paint": {
+				"text-halo-blur": 0.5,
+				"text-color": "#666",
+				"text-halo-width": 1,
+				"text-halo-color": "#ffffff"
+			}
+		},
+		{
+			"id": "poi-level-1",
+			"type": "symbol",
+			"source": "openmaptiles",
+			"source-layer": "poi",
+			"minzoom": 14,
+			"filter": [
+				"all",
+				[
+					"==",
+					"$type",
+					"Point"
+				],
+				[
+					"all",
+					[
+						"<=",
+						"rank",
+						14
+					],
+					[
+						"has",
+						"name"
+					]
+				]
+			],
+			"layout": {
+				"text-padding": 2,
+				"text-font": [
+					"Open Sans Semibold"
+				],
+				"text-anchor": "top",
+				"icon-image": "{class}_11",
+				"text-field": "{name}",
+				"text-offset": [
+					0,
+					0.6
+				],
+				"text-size": 12,
+				"text-max-width": 9
+			},
+			"paint": {
+				"text-halo-blur": 0.5,
+				"text-color": "#666",
+				"text-halo-width": 1,
+				"text-halo-color": "#ffffff"
+			}
+		},
+		{
+			"id": "place-other",
+			"type": "symbol",
+			"metadata": {
+				"mapbox:group": "1444849242106.713"
+			},
+			"source": "openmaptiles",
+			"source-layer": "place",
+			"filter": [
+				"!in",
+				"class",
+				"city",
+				"town",
+				"village"
+			],
+			"layout": {
+				"text-letter-spacing": 0.1,
+				"text-size": {
+					"base": 1.2,
+					"stops": [
+						[
+							12,
+							10
+						],
+						[
+							15,
+							14
+						]
+					]
+				},
+				"text-font": [
+					"Open Sans Bold"
+				],
+				"text-field": "{name_en}",
+				"text-transform": "uppercase",
+				"text-max-width": 9
+			},
+			"paint": {
+				"text-color": "#633",
+				"text-halo-width": 1.2,
+				"text-halo-color": "rgba(255,255,255,0.8)"
+			}
+		},
+		{
+			"id": "place-country-3",
+			"type": "symbol",
+			"metadata": {
+				"mapbox:group": "1444849242106.713"
+			},
+			"source": "openmaptiles",
+			"source-layer": "place",
+			"filter": [
+				"all",
+				[
+					"==",
+					"class",
+					"country"
+				],
+				[
+					">=",
+					"rank",
+					3
+				]
+			],
+			"layout": {
+				"text-font": [
+					"Open Sans Bold"
+				],
+				"text-field": "{name_en}",
+				"text-size": {
+					"stops": [
+						[
+							3,
+							11
+						],
+						[
+							7,
+							17
+						]
+					]
+				},
+				"text-transform": "uppercase",
+				"text-max-width": 6.25
+			},
+			"paint": {
+				"text-halo-blur": 1,
+				"text-color": "#334",
+				"text-halo-width": 2,
+				"text-halo-color": "rgba(255,255,255,0.8)"
+			}
+		},
+		{
+			"id": "place-country-2",
+			"type": "symbol",
+			"metadata": {
+				"mapbox:group": "1444849242106.713"
+			},
+			"source": "openmaptiles",
+			"source-layer": "place",
+			"filter": [
+				"all",
+				[
+					"==",
+					"class",
+					"country"
+				],
+				[
+					"==",
+					"rank",
+					2
+				]
+			],
+			"layout": {
+				"text-font": [
+					"Open Sans Bold"
+				],
+				"text-field": "{name_en}",
+				"text-size": {
+					"stops": [
+						[
+							2,
+							11
+						],
+						[
+							5,
+							17
+						]
+					]
+				},
+				"text-transform": "uppercase",
+				"text-max-width": 6.25
+			},
+			"paint": {
+				"text-halo-blur": 1,
+				"text-color": "#334",
+				"text-halo-width": 2,
+				"text-halo-color": "rgba(255,255,255,0.8)"
+			}
+		},
+		{
+			"id": "place-country-1",
+			"type": "symbol",
+			"metadata": {
+				"mapbox:group": "1444849242106.713"
+			},
+			"source": "openmaptiles",
+			"source-layer": "place",
+			"filter": [
+				"all",
+				[
+					"==",
+					"class",
+					"country"
+				],
+				[
+					"==",
+					"rank",
+					1
+				]
+			],
+			"layout": {
+				"text-font": [
+					"Open Sans Bold"
+				],
+				"text-field": "{name_en}",
+				"text-size": {
+					"stops": [
+						[
+							1,
+							11
+						],
+						[
+							4,
+							17
+						]
+					]
+				},
+				"text-transform": "uppercase",
+				"text-max-width": 6.25
+			},
+			"paint": {
+				"text-halo-blur": 1,
+				"text-color": "#334",
+				"text-halo-width": 2,
+				"text-halo-color": "rgba(255,255,255,0.8)"
+			}
+		},
+		{
+			"id": "place-continent",
+			"type": "symbol",
+			"metadata": {
+				"mapbox:group": "1444849242106.713"
+			},
+			"source": "openmaptiles",
+			"source-layer": "place",
+			"maxzoom": 1,
+			"filter": [
+				"==",
+				"class",
+				"continent"
+			],
+			"layout": {
+				"text-font": [
+					"Open Sans Bold"
+				],
+				"text-field": "{name_en}",
+				"text-size": 14,
+				"text-max-width": 6.25,
+				"text-transform": "uppercase"
+			},
+			"paint": {
+				"text-halo-blur": 1,
+				"text-color": "#334",
+				"text-halo-width": 2,
+				"text-halo-color": "rgba(255,255,255,0.8)"
+			}
+		}
+	]
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+</head>
+<body>
+
+
+<div id='map' style='width: 100%; height: 100%;display: block;position: absolute;'></div>
+<script>
+
+var data = {  
+   "type":"FeatureCollection",
+   "features":[  
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               79,
+               22
+            ]
+         },
+         "properties":{  
+            "id":0
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -64,
+               -34
+            ]
+         },
+         "properties":{  
+            "id":1
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               135,
+               -25
+            ]
+         },
+         "properties":{  
+            "id":2
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               13.33333,
+               47.33333
+            ]
+         },
+         "properties":{  
+            "id":3
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               13.33333,
+               47.33333
+            ]
+         },
+         "properties":{  
+            "id":4
+         }
+      }
+
+   ]
+}
+mapboxgl.accessToken = 'pk.eyJ1IjoibWFub3ByaXlhIiwiYSI6ImNqbjAzcmRkdjExb2gzcXBsYXk4ZGIyM3kifQ.P-4nLTWwYEtv_uPkSc6Ung';
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    center: [19.3,30.7],
+    zoom: 1.2,
+    style:'mapbox://styles/manopriya/cjn03y7nm45382rjmd1fhka3y',
+});
+
+map.on('style.load', function () {
+    map.addSource('pointsource',{
+      type:'geojson',
+      data:data
+    });
+    map.addLayer({
+        "id": "points",
+        "source": "pointsource",             
+        "type": "circle",
+        "paint": {
+            'circle-radius':10,
+            'circle-color': [
+                    'match',
+                    ['get', 'id'],
+                    0, 'red',
+                    1, 'blue',
+                    2, 'green',
+                    3, 'black',
+                    /* other */ 'pink'
+
+                ],
+            'circle-stroke-width':1,
+            'circle-stroke-color':'white'
+        }
+
+    });
+});
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script src='../src/mapbox-gl.js'></script>
+<link href='../src/mapbox-gl.css' rel='stylesheet' />
+<script src='court_data.json'></script>
+	
+</head>
+<body>
+
+
+<div id='map' style='width: 100%; height: 90%;display: block;position: absolute;border: 1px solid red;'></div>
+<style>
+.mapboxgl-canvas{
+  cursor: pointer;
+}
+</style>
+<script>
+
+var emptyJson = {
+            "version": 8,
+            "staticMapColor":"#ffffff",
+            "adminLineClr":"#d3d7db",
+            "PrimaryFontColor":"#969ea6",
+            "secondaryFntClr":"#bdc4ca",
+            "ternaryFntClr":"#d5dade",
+            "textHaloClr":"rgba(255,255,255,0.8)",
+            "name": "Empty",
+            "metadata": {
+              "mapbox:autocomposite": true
+            },
+            "sources": {},
+            "layers": [
+              {
+                "id": "background",
+                "type": "background",
+                "paint": {
+                  "background-color": "white"
+                }
+              }
+            ]
+          }
+var map = new mapboxgl.Map({
+    container: 'map',
+	  zoom: 0,
+    renderWorldCopies:false,
+    style: emptyJson
+});
+
+var FeatureSet = {
+    'type': 'FeatureCollection',
+    'features': [
+
+    ]
+}
+
+var xlet=-180;
+var xrgt =124.05406380219512;
+var ytop = 19.193264056177;
+var ybot = -85;
+
+var latRange = ytop-ybot;
+
+
+var imgW = 626;
+var imht =409;
+
+
+var lngRange = xrgt-xlet;
+
+var _xfact = imgW/lngRange;
+var _yfact = imht/latRange;
+
+console.log(_xfact,_yfact)
+json.forEach(function(d){
+    var feature = {
+                      'type': 'Feature',
+                      "properties": {
+                        "idx":0
+                      },
+                      'geometry': {
+                          'type': 'Point',
+                      }
+                  }
+
+
+        var lng = (d.x/_xfact);
+        var lat = (d.y/_yfact);
+
+         console.log(d.x,d.y);
+        // var lng=d.x/_xfact, lat=d.y/_yfact;
+       
+
+  feature.geometry.coordinates = [-180+lng,-85+lat];
+  feature.properties.Point=d.Point;
+  // feature.geometry.coordinates = [lngLat.lng,lngLat.lat];
+  // console.log(d.x,d.y);
+  FeatureSet.features.push(feature)
+});
+
+
+console.log(FeatureSet);
+
+var layer = {
+    "id": "points",
+    "source": "pointsource",
+    "type": "circle",
+    "paint": {
+      "circle-radius":5,
+      "circle-color":[
+                        'match',
+                        ['get', 'Point'],
+                        "point1", 'green',
+                        "point2", 'blue',
+                        "point3",'green',
+                        "point4",'blue',
+                        "center","black",
+                        "red"
+                    ]
+    }
+  };
+
+
+map.on('style.load', function () {
+
+   map.addSource('pointsource',{
+        type:'geojson',
+        data:FeatureSet
+      });
+
+   map.addSource("overlay",{
+          'type': 'image',
+          'url': 'court_Hori.jpg',
+          'coordinates': [
+                  
+                    [
+                      -180,
+                       19.193264056177867
+                    ],
+                    [
+                        124.54056447136571,
+                        19.193264056177867
+                    ],
+                    [ 
+                        124.54056447136571,
+                       -85
+                    ],
+                    [
+                        -180,
+                       -85
+                    ]
+                    
+              ] 
+        });
+
+   map.addLayer({
+
+            'id': 'overlay',
+            'source': 'overlay',
+            'type': 'raster',
+            'paint': { 'raster-opacity': 0.85 }
+          });
+   map.addLayer(layer);
+
+});
+map.setZoom(0);
+map.on("click",function(e){
+console.log(e.lngLat);
+console.log(e.point);
+})
+
+</script>
+
+
+</body>
+</html>

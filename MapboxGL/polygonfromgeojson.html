@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Add a GeoJSON polygon</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+    <script src='src/topojson.js'></script>
+    <!-- <script src='src/COUNTRIES_IND.js'></script> -->
+    <link href='src/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken='pk.eyJ1IjoiYXN3aW5pIiwiYSI6ImNqdnFoaW03eDA4eHo0YW1hZ2RjZXQybTIifQ.KRAbDiVNDi4UxQ9nssjSwg';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11',
+    Zoom:0
+});
+
+var hoveredStateId =  null;
+var topJsonObj = POLYGON_WORLD_COUNTRIES;
+var key = Object.keys(topJsonObj.objects)[0];
+var polygonJSON = topojson.feature(topJsonObj, topJsonObj.objects[key]);
+map.on('load', function () {
+
+    map.addSource('test',{
+  type:'geojson',
+  data:'src/COUNTRIES_CHN.json';//polygonJSON
+    });
+    // map.addLayer({
+    //     'id': 'test1',
+    //     'type': 'fill',
+    //     'source': 'test',
+    //     'paint': {
+    //         'fill-color': '#088',
+    //         'fill-opacity': 0.8
+    //     }
+    //     // "filter": ['match', ['get', 'cname'], ['India','China','Pakistan'], true, false]
+    //     // "filter": ['==', 'cname','India' ]
+    // });
+
+    map.addLayer({
+        'id': 'test2',
+        'type': 'fill',
+        'source': 'test',
+        'paint': {
+            'fill-color': '#088'
+            // "fill-opacity": ["case",
+            //             ["boolean", ["feature-state", "hover"], false],
+            //             1,
+            //             0.5
+            //             ]
+            }
+        });
+    // map.on("mousemove", "test2", function(e) {
+    //     if (e.features.length > 0) {
+    //     if (hoveredStateId) {
+    //     map.setFeatureState({source: 'test', id: hoveredStateId}, { hover: false});
+    //     }
+    //     hoveredStateId = e.features[0].properties.geonameid;
+    //     map.setFeatureState({source: 'test', id: hoveredStateId}, { hover: true});
+    //     }
+    //     });
+ 
+    // map.on("mouseleave", "test2", function() {
+    //     if (hoveredStateId) {
+    //     map.setFeatureState({source: 'test', id: hoveredStateId}, { hover: false});
+    //     }
+    //     hoveredStateId =  null;
+    //     });
+    //     });
+// map.setZoom(0);
+</script>
+
+</body>
+</html>
